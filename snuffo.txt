@@ -1,0 +1,10 @@
+Snuffo (ZX Spectrum)
+by Fadge Games
+Updated 2017-12-07
+
+Play as Snuffo the clown, running round town murdering children.  
+Can be loaded on any Spectrum emulator, or saved to cassette tape and loaded on a real machine.  
+This is my first game, I was just messing around in CGD to see what I could make.
+
+
+https://fadge-games.itch.io/snuffo

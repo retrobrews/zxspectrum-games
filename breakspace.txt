@@ -1,0 +1,32 @@
+Break/Space (Break-Space v1.9.tap)
+by Blerkotron
+Updated 2017-09-12
+
+Break/Space is a procedurally-generated space strategy game for the 48K ZX Spectrum. 
+The original version was written entirely in BASIC for the 2017 ZX Spectrum BASIC Jam 
+(https://itch.io/jam/zx-spectrum-basic-jam), but the latest release has been compiled 
+into 100% machine code for a slicker gameplay experience.
+
+After an accident while testing an experimental warp drive, you find yourself stranded 
+in an uncharted area of the universe. Your only chance of getting home is to recover 
+your four warp cores (jettisoned during the accident) and then return to the wormhole 
+that brought you here in order to get back to warp speed and back to Earth.
+
+Unfortunately this part of the universe is inhabited by six alien races – some nice, 
+some not-so-nice. You can barter and battle with these as you see fit, although be 
+careful – your actions will have consequences, and beating up an easy mark can make 
+them less likely to deal with you the next time your paths cross.
+
+Complicating matters more is the fact that your long-range scanners are broken so you 
+can’t see what’s ahead of you until you enter a region. Your ship is also a little 
+underpowered and can only carry a certain amount of fuel and armaments. However, it’s 
+possible to use the few supplies you have to earn money, which you can then use to 
+replenish stocks or improve your ship. And out in the darkness of space, perhaps there 
+are other opportunities awaiting you?
+
+But don’t take too long. The wormhole will close soon, and once that happens you’ll 
+be trapped here forever!
+
+Updated to version 1.9 (12/09/17).
+
+https://blerkotron.itch.io/breakspace

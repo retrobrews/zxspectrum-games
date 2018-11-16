@@ -1,0 +1,17 @@
+Lost In Worlds
+by Nihirash
+Updated 2018-06-12
+
+Little platformer made with Platform Game Designer. 
+Explore strange worlds and back home!
+
+Controls:
+O,P - Direction
+SPACE - Jump
+
+
+Feel free to redistribute game!
+This game made for real Zx-Spectrum or emulator! Emulator doesn't bounded with game!
+On 128K models, please, boot from 48K or USR0 mode! 
+
+https://nihirash.itch.io/lost-in-worlds

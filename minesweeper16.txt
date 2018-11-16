@@ -1,0 +1,24 @@
+Minesweeper 16/48 (MineSweeper16-v1.0.tap)
+by Blerkotron
+Updated 2017-12-01
+
+Minesweeper is a ZX Spectrum implementation of the classic Minesweeper puzzle, 
+familiar to many people as one of the games bundled with Microsoft Windows.
+
+This isn’t the first version of the game for the Spectrum (and probably won’t be the last)
+but as far as I can tell from the World of Spectrum database it does seem to be the first version to be playable on a 16K machine!
+
+There are two different versions of Minesweeper – a 16K edition and an enhanced 48K version. 
+16K owners can only play the 16K version (obviously) but 48K and 128K users can choose to play either.
+
+The 48K edition features more options (like the ‘Heroes’ mode where the boards are based on 
+classic Speccy sprites) and some more polish on the front-end but the game is functionally 
+the same regardless of which version you choose, so if you own a grown-up Speccy and just 
+want to play classic Minesweeper then the 16K version is a tad faster to load.
+
+The game is my first full project in Z80 machine code, so please go easy on me. :-)
+
+This is release 1.0, slightly tweaked over the beta but still with a few placeholder graphics 
+which I drew myself and can only apologise for.
+
+https://blerkotron.itch.io/minesweeper

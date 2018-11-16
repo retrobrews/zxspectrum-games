@@ -1,0 +1,22 @@
+Snaked
+by uglifruit
+Updated 2017-06-14
+
+A simple, but quite pacy (for ZX Spectrum Basic) Snake-a-like, that doesn't use any graphics as such.
+
+Instructions:
+Eat the purple things regularly, or else you'll starve.
+Don't eat yourself.
+Keys Q,A,O,P.
+
+Supports a maximum snake length of 300 'snake segments'.
+
+
+UPDATED:
+Now has improved graphics including Graphical Life Meter, slight speed increase, and options to play at slightly easier difficult settings (can choose starting health and how much health the food gives you).
+The default of 40 starting health, and boost of 10 for eating provides a 'challenging' game.
+
+UPDATE:
+Bugfix.  (Hopefully) cured a problem with the food appearing on the 'head' of the snake, and not being eaten.
+
+https://uglifruit.itch.io/snaked

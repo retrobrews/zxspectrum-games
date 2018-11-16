@@ -1,0 +1,15 @@
+Physiced
+by uglifruit
+Updated 2017-06-13
+
+A Physics Based Arcade Game in ZX Spectrum BASIC.
+
+The ball bounces under gravity, add momentum with direction keys to affect it's movement and guide it to the (green) exit.
+
+Featuring 20 levels of Teleporters, Switches, Score Bonuses, Score Penalties, Gravity Flips and very rudimentary graphics.  Cheat modes, and a level design tool included for anyone who wants to play with the code.
+
+Default Keys (re-definable) = Q,A,O,P
+
+Cheat mode uses SYMBOL SHIFT on menu screen + letters.
+
+https://uglifruit.itch.io/physiced
