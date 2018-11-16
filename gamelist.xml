@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <gameList>
+    <game>
+     <path>./breakspace.tap</path>
+     <name>Break/Space</name>
+     <desc>Break/Space is a procedurally-generated space strategy game for the 48K ZX Spectrum. After an accident while testing an experimental warp drive, you find yourself stranded in an uncharted area of the universe. Your only chance of getting home is to recover  your four warp cores (jettisoned during the accident) and then return to the wormhole  that brought you here in order to get back to warp speed and back to Earth. Unfortunately this part of the universe is inhabited by six alien races – some nice,  some not-so-nice. You can barter and battle with these as you see fit, although be  careful – your actions will have consequences, and beating up an easy mark can make  them less likely to deal with you the next time your paths cross. Complicating matters more is the fact that your long-range scanners are broken so you  can't see what's ahead of you until you enter a region. Your ship is also a little underpowered and can only carry a certain amount of fuel and armaments. However, it's possible to use the few supplies you have to earn money, which you can then use to replenish stocks or improve your ship. And out in the darkness of space, perhaps there are other opportunities awaiting you? But don't take too long. The wormhole will close soon, and once that happens you'll be trapped here forever!</desc>
+     <image>./breakspace.png</image>
+     <rating>0</rating>
+     <releasedate>20170912T000000</releasedate>
+     <developer>Blerkotron</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Break/Space 1.9</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./lostinworlds.tap</path>
+     <name>Lost In Worlds</name>
+     <desc>Little platformer made with Platform Game Designer. Explore strange worlds and back home! Controls: O,P - Direction; SPACE - Jump.</desc>
+     <image>./lostinworlds.png</image>
+     <rating>0</rating>
+     <releasedate>20180612T000000</releasedate>
+     <developer>Nihirash</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Lost In Worlds</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./minesweeper16.tap</path>
+     <name>Minesweeper 16</name>
+     <desc>Minesweeper is a ZX Spectrum implementation of the classic Minesweeper puzzle, familiar to many people as one of the games bundled with Microsoft Windows. This is a 16K edition.</desc>
+     <image>./minesweeper16.png</image>
+     <rating>0</rating>
+     <releasedate>20171201T000000</releasedate>
+     <developer>Blerkotron</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Minesweeper 16 v1.0</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./minesweeper48.tap</path>
+     <name>Minesweeper 48</name>
+     <desc>Minesweeper is a ZX Spectrum implementation of the classic Minesweeper puzzle, familiar to many people as one of the games bundled with Microsoft Windows. This is a 48K edition. The 48K edition features more options (like the 'Heroes' mode where the boards are based on classic Speccy sprites).</desc>
+     <image>./minesweeper48.png</image>
+     <rating>0</rating>
+     <releasedate>20171201T000000</releasedate>
+     <developer>Blerkotron</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Minesweeper 48 v1.0</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./physiced.tap</path>
+     <name>Physiced</name>
+     <desc>A Physics Based Arcade Game in ZX Spectrum BASIC. The ball bounces under gravity, add momentum with direction keys to affect it's movement and guide it to the (green) exit. Featuring 20 levels of Teleporters, Switches, Score Bonuses, Score Penalties, Gravity Flips and very rudimentary graphics.  Cheat modes, and a level design tool included for anyone who wants to play with the code. Default Keys (re-definable) = Q,A,O,P; Cheat mode uses SYMBOL SHIFT on menu screen + letters.</desc>
+     <image>./physiced.png</image>
+     <rating>0</rating>
+     <releasedate>20170613T000000</releasedate>
+     <developer>Uglifruit</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Physiced</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./snaked3.tap</path>
+     <name>Snaked</name>
+     <desc>A simple, but quite pacy (for ZX Spectrum Basic) Snake-a-like, that doesn't use any graphics as such. Instructions: Eat the purple things regularly, or else you'll starve. Don't eat yourself. Keys Q,A,O,P.</desc>
+     <image>./snaked3.png</image>
+     <rating>0</rating>
+     <releasedate>20170614T000000</releasedate>
+     <developer>Uglifruit</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Snaked</genre>
+     <players>1</players>
+   </game> 
+   <game>
+     <path>./snuffo.tap</path>
+     <name>Snuffo</name>
+     <desc>Play as Snuffo the clown, running round town murdering children. Can be loaded on any Spectrum emulator, or saved to cassette tape and loaded on a real machine. This is my first game, I was just messing around in CGD to see what I could make.</desc>
+     <image>./snuffo.png</image>
+     <rating>0</rating>
+     <releasedate>20171207T000000</releasedate>
+     <developer>Fadge Games</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Snuffo</genre>
+     <players>1</players>
+   </game> 
+   <game>
+     <path>./unhallowed.tap</path>
+     <name>Unhallowed</name>
+     <desc>It's Halloween and you're on your way home from work, tired and hungry and wanting nothing more than to put your feet up in front of the TV. But something dark and evil lurks within your home, waiting for you to return...</desc>
+     <image>./unhallowed.png</image>
+     <rating>0</rating>
+     <releasedate>20181031T000000</releasedate>
+     <developer>Blerkotron</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Unhallowed 1.02</genre>
+     <players>1</players>
+   </game>
+ </gameList>
