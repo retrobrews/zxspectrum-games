@@ -1,8 +1,6 @@
 # zx-spectrum-games
 Homebrew ZX Spectrum games collection 
 
-***** WIP *****
-
  - Break/Space<br />
  - Lost In Worlds<br />
  - Minesweeper 16<br />
