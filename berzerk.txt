@@ -1,0 +1,20 @@
+Berzerk - ZX Spectrum
+by Bootlegger
+Updated	Jun 16, 2017
+Published	Jun 13, 2017
+
+Berzerk clone style game for the ZX Spectrum.
+Wrote this for a series on the Spectrum Show.
+Source is available on my personal website at https://sites.google.com/site/bootleggersrealm/Downhome/Topic3/berzerkclone
+Heavily uses the Currah Microspeech engine so recommend you find either spectaculator or zxspin for emulation, or real hardware to play it.
+
+Aim of game;
+Navigate the play field avoiding all robots.  Take too long and a smiler will come to trance on you!
+Shoot the enemies if you wish.  Enemies will always track towards you
+Avoid wall at all costs.
+Follow direction of arrow to try to escape the maze.
+Enemies will fire back after a few moves, and will gradually get more aggressive.
+End sequence if you escape, not just a simple well done message....
+Use QAOP and space to move and fire.
+
+https://bootlegger.itch.io/berzerk

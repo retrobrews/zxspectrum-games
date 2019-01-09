@@ -1,0 +1,21 @@
+Pilot Attack (pilot_attack_1_1.tap)
+by Misfit
+Updated	Jul 29, 2017
+Published	Mar 05, 2017
+
+
+Horizontally scrolling shooter for Sinclair ZX Spectrum 48k home computer
+
+Programming : Mika "Misfit" Keränen
+
+Testing : Stefan Vogt http://8-bit.info/
+
+buy a physical cassette release: The Future Was 8Bit
+
+Tip (version 1.0):
+
+If you have a real Spectrum+2 or 3, SD-card reader and have problems to load the game. 
+push extend mode, write "out 32765,48" and load.
+
+
+https://misfit.itch.io/pilot-attack

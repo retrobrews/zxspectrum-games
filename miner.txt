@@ -1,0 +1,21 @@
+Miner'49er - ZX Spectrum
+by Bootlegger
+Published	Jun 16, 2017
+For ZX Spectrum
+
+Here is an emulator snapshot of a game I wrote in basic back in the 80's called Miner 49'er.
+Thought it was great back in the day, but realise now that it suffered a few bugs and was painfully slow 8)
+Must be run in 48k Mode emualtor.
+
+The idea of the game is to collect all of the gold bags before your time runs out. As well you have to dodge 
+the ghost of the dead miner that roams the caverns. They chase you and try to stop you getting the gold. 
+
+Keys:
+O/P: left/right
+M: climb
+H: help
+Good luck, you'll need it!
+
+
+https://bootlegger.itch.io/miner49er
+https://sites.google.com/site/bootleggersrealm/Downhome

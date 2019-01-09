@@ -1,0 +1,24 @@
+Ink Fall - ZX Spectrum (InkFall-after_compo.z80)
+by Bootlegger
+Updated	Jun 20, 2017
+Published	Jun 11, 2017
+
+Simple puzzle game.
+
+Choose an ink colour from palette on the right.  Use QA, OP, 67 to move cursor, and Space or 0 to action.  
+
+Ink will fill from left to right and top to bottom.
+
+Try to fill whole page in one colour.
+
+Be sure to choose a colour before the time runs out.
+
+Once colour is actioned, all adjacent same colours will fill with new colour.  When a different colour is hit, the fill will stop.
+
+You can not use the last chosen colour on your next go (last colour is highlighted and will be skipped over on cursor move)
+
+Try to complete in the lowest amount of move to gain a Lo-Score.
+
+https://bootlegger.itch.io/ink-fall
+https://bootlegger.itch.io/ink-fall/devlog/3080/unhappy-with-gamejam-version
+https://bootlegger.itch.io/ink-fall/devlog/3279/another-speed-improvement

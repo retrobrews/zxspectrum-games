@@ -1,0 +1,11 @@
+Speccy-Snake (1.0T) correct tape version (ssnake_kesz.z80)
+by Retrojatekos
+Published	Aug 04, 2017
+
+A simple Snake game for the ZX Spectrum. Written is Sinclair BASIC.
+This is a very simple game, and I'll improve it, and soon I'll publish the next (better, bug-fixed) version.
+I upload it in .tap, .z80 and .mdr (Microdrive) format.
+
+
+
+https://retrojatekos.itch.io/speccy-snake-10t-correct-tape-version
