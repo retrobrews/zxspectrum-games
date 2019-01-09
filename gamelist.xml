@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <gameList>
+   <game>
+     <path>./berzerk.tap</path>
+     <name>Berzerk</name>
+     <desc>Navigate the play field avoiding all robots.  Take too long and a smiler will come to trance on you! Shoot the enemies if you wish.  Enemies will always track towards you. Avoid wall at all costs. Follow direction of arrow to try to escape the maze. Enemies will fire back after a few moves, and will gradually get more aggressive. End sequence if you escape, not just a simple well done message.... Use keys Q,A,O,P and space to move and fire.</desc>
+     <image>./berzerk.png</image>
+     <rating>0</rating>
+     <releasedate>20170616T000000</releasedate>
+     <developer>Bootlegger</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Berzerk</genre>
+     <players>1</players>
+   </game>
     <game>
      <path>./breakspace.tap</path>
      <name>Break/Space</name>
-     <desc>Break/Space is a procedurally-generated space strategy game for the 48K ZX Spectrum. After an accident while testing an experimental warp drive, you find yourself stranded in an uncharted area of the universe. Your only chance of getting home is to recover  your four warp cores (jettisoned during the accident) and then return to the wormhole  that brought you here in order to get back to warp speed and back to Earth. Unfortunately this part of the universe is inhabited by six alien races – some nice,  some not-so-nice. You can barter and battle with these as you see fit, although be  careful – your actions will have consequences, and beating up an easy mark can make  them less likely to deal with you the next time your paths cross. Complicating matters more is the fact that your long-range scanners are broken so you  can't see what's ahead of you until you enter a region. Your ship is also a little underpowered and can only carry a certain amount of fuel and armaments. However, it's possible to use the few supplies you have to earn money, which you can then use to replenish stocks or improve your ship. And out in the darkness of space, perhaps there are other opportunities awaiting you? But don't take too long. The wormhole will close soon, and once that happens you'll be trapped here forever!</desc>
+     <desc>Break/Space is a procedurally-generated space strategy game for the 48K ZX Spectrum. After an accident while testing an experimental warp drive, you find yourself stranded in an uncharted area of the universe. Your only chance of getting home is to recover  your four warp cores (jettisoned during the accident) and then return to the wormhole  that brought you here in order to get back to warp speed and back to Earth. Unfortunately this part of the universe is inhabited by six alien races - some nice,  some not-so-nice. You can barter and battle with these as you see fit, although be  careful - your actions will have consequences, and beating up an easy mark can make  them less likely to deal with you the next time your paths cross. Complicating matters more is the fact that your long-range scanners are broken so you  can't see what's ahead of you until you enter a region. Your ship is also a little underpowered and can only carry a certain amount of fuel and armaments. However, it's possible to use the few supplies you have to earn money, which you can then use to replenish stocks or improve your ship. And out in the darkness of space, perhaps there are other opportunities awaiting you? But don't take too long. The wormhole will close soon, and once that happens you'll be trapped here forever!</desc>
      <image>./breakspace.png</image>
      <rating>0</rating>
      <releasedate>20170912T000000</releasedate>
      <developer>Blerkotron</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Break/Space 1.9</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./inkfall.z80</path>
+     <name>Ink Fall</name>
+     <desc>Simple puzzle game. Choose an ink colour from palette on the right. Use QA, OP, 67 to move cursor, and Space or 0 to action. Ink will fill from left to right and top to bottom. Try to fill whole page in one colour. Be sure to choose a colour before the time runs out. Once colour is actioned, all adjacent same colours will fill with new colour.  When a different colour is hit, the fill will stop. You can not use the last chosen colour on your next go (last colour is highlighted and will be skipped over on cursor move). Try to complete in the lowest amount of move to gain a Lo-Score.</desc>
+     <image>./inkfall.png</image>
+     <rating>0</rating>
+     <releasedate>20170620T000000</releasedate>
+     <developer>Bootlegger</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Ink Fall [after compo version]</genre>
      <players>1</players>
    </game>
    <game>
@@ -22,6 +46,18 @@
      <developer>Nihirash</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Lost In Worlds</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./miner.tap</path>
+     <name>Miner'49er</name>
+     <desc>The idea of the game is to collect all of the gold bags before your time runs out. As well you have to dodge the ghost of the dead miner that roams the caverns. They chase you and try to stop you getting the gold. Keys: O/P: left/right; M: climb; H: help. Good luck, you'll need it!</desc>
+     <image>./miner.png</image>
+     <rating>0</rating>
+     <releasedate>20170616T000000</releasedate>
+     <developer>Bootlegger</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Miner'49er</genre>
      <players>1</players>
    </game>
    <game>
@@ -61,6 +97,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./pilotattack.tap</path>
+     <name>Pilot Attack</name>
+     <desc>Horizontally scrolling shooter for Sinclair ZX Spectrum 48k home computer.</desc>
+     <image>./pilotattack.png</image>
+     <rating>0</rating>
+     <releasedate>20170729T000000</releasedate>
+     <developer>Misfit</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Pilot Attack [v.1.1]</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./snaked3.tap</path>
      <name>Snaked</name>
      <desc>A simple, but quite pacy (for ZX Spectrum Basic) Snake-a-like, that doesn't use any graphics as such. Instructions: Eat the purple things regularly, or else you'll starve. Don't eat yourself. Keys Q,A,O,P.</desc>
@@ -83,7 +131,19 @@
      <publisher>HOMEBREW ROM</publisher>
      <genre>Snuffo</genre>
      <players>1</players>
-   </game> 
+   </game>
+   <game>
+     <path>./speccysnake.z80</path>
+     <name>Speccy-Snake</name>
+     <desc>A simple Snake game for the ZX Spectrum.</desc>
+     <image>./speccysnake.png</image>
+     <rating>0</rating>
+     <releasedate>20170804T000000</releasedate>
+     <developer>Retrojatekos</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Speccy-Snake [v.1.0T]</genre>
+     <players>1</players>
+   </game>
    <game>
      <path>./unhallowed.tap</path>
      <name>Unhallowed</name>
