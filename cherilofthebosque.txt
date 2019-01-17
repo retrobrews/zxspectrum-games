@@ -1,0 +1,145 @@
+Cheril of the Bosque (Mojon-Twins--Cheril-of-the-Bosque.tzx)
+by Mojon Twins
+2010/02/01
+http://www.mojontwins.com/juegos_mojonos/cheril-of-the-bosque/
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Juego / Game: The Mojon Twins, colección Pretujao 2010, vol #2.
+
+Powered by La Churrera by The Mojon Twins and splib2 by Alvin Albrecht.
+Uses aPPack decompressor by dwedit, adapted by Utopian & optimized by Metalbrain
+Historia / Story
+
+En la selva de Badajoz vive Cheril, una chica sencilla y normal como todas las demás chicas de su edad. Come cocos, caza panteras con los dientes, se desplaza en liana y viste con sugerentes pieles de animales. Nada extraño. Pero Cheril, sobrina en grado segundo de Tartán, el escocés de los monos, tiene mayores aspiraciones. Está harta de Eleuterio, el mono serio, que reprueba todas sus explosiones de alocada y espontánea juventud, de las miradas lascivas de Mondongo el aborígen y su primo Mojinganga, y de esas malditas bichas que andan detrás de cada matorral. Ella quiere algo más. Quiere ir a la gran ciudad y entrar a formar parte de la gente guapa, como su antepasado Tarzán de los monos, que se fue a Londres para vestirse de traje.
+
+Se puede ir cuando le salga del mismo toto, pero el camino es largo, unos trece días de marcha y necesita hacerse antes con provisiones. Estima que con un bellotón gigante por día, de esos que caen de las encinas de la selva de Badajoz, tendrá bastante. ¡Manos a la obra!
+
+In the Badajoz jungle lives Cheril, a common girl, just like every other girl of her age. She eats cucumbers, hunts panthers with her bare teeth, flys around using hanging vines and dresses with suggestive animal furs. Nothing out of the blue. But Cheril, niece in second degree of Tartan, the scottish of the apes, has higher expectations. She’s fed up with Eleuterio, the ever serious monkey, which condemns her explosions of crazy and espontaneous youthness, with the lewd stares from Mondongo the aborigin and his cousin Mojinganga, and with those damned snakes which ambush her from behind every bush in the jungle. She want’s something better. She’s decided to go to the city and become part of the “beautiful people”, just like her ancestor Tarzán of the Apes, which went to London and wore a nice Tuxedo.
+
+In fact, Cheril may leave whenever she’s arsed to go, but the journey is long: thirteen days on foot, so she needs to provide herself with enough food. She estimates that a giant nut a day will suffice, so that means that she needs to collect thirteen giant nuts before leaving. Go for it!
+
+cotbss03 cotbss04
+El Juego / The Game
+
+Controla a Cheril a través de la selva buscando bellotas gigantes. Cuando tengas trece, el juego terminará. En las pantallas ya visitadas, es posible que aparezca un sabroso pollo asado que te ayudará a recuperar algunos puntos de vida, que irás perdiendo al chocar con tus enemigos, bolas de pinchos, setas venenosas o plantas carnívoras.
+
+Algunos puntos del mapa se encuentran cerrados al principio. Los antiguos Bahunos Montunos (una antiquísima tribu) colocaron gruesas puertas de piedra que sólo pueden ser abiertas con llaves especiales que escondieron por la selva. Otros puntos del mapa están bloqueados por cajas rojas de la mudanza del Mono Eleuterio, que es muy serio pero muy desordenado. Puedes apartar estas cajas de tu camino siempre que no haya nada que las bloquee. No te preocupes si bloqueas tu camino: sólo con salir de la pantalla y volver a entrar las cajas habrán vuelto a su sitio original. ¡Magia!
+
+Control Cheril accross the jungle looking for giant nuts. When you manage to collect thirteen of them, the game will end and you’ll win. In already visited screens, a tasteful roasted chicken may appear, and it will help you to recover some life points, which you’ll lose when you hit an enemy, a ball of spikes, poisonous shrooms or carnivorous plants.
+
+Some places in the game map are closed at the beginning of your adventure. The ancient tribe of the Bahunos Montunos built enormous stone gates which can only be open using special keys scattered around the jungle. Another spots will be blocked by red boxes which Eleuterio brought when he moved to this jungle. You can push those boxes out of your way provided there’s nothing which blocks them. Don’t worry if you fail and block your path even more: you just have to exit the screen and, when you come back, the boxes will be placed on their original positions… That’s the magic of video games!
+
+cotbss05 cotbss06
+Controles / Controls
+
+O: Izquierda / Left
+P: Derecha / Right
+Q: Arriba / Up
+A: Abajo / Down
+SPACE+O,P,Q or A: Empujar caja roja / Push red box.
+Instrucciones de carga / Loading instructions
+
+En modelos de 48K, escribe LOAD “” y pulsa ENTER y PLAY en el casette. El juego cargará automáticamente (si no falla, por supuesto, en cuyo caso puedes repetir pacientemente el proceso).
+
+En modelos de 128K, pon el ordenador en modo 48 BASIC y pulsa Enter. Luego sigue las instrucciones de los modelos de 48K.
+
+For 48K models just type in LOAD “” and press ENTER, then PLAY on tape. The game will load automaticly (unless it fails miserably, in which case you’ll have to start over again).
+
+For 128K moderls, switch to 48 BASIC, and then follow the instructions for the 48K models.
+
+cotbss07 cotbss08
+FX Tom-Cat tiene vacaciones / FX Tom-Cat on hollidays
+
+El juego puede ser controlado de forma nativa con las teclas, el Joystick Kempston y, por primera vez en un juego mojono, con Joystick Sinclair Interface II (conectado en el puerto 1), por lo que Tom-Cat no tendrá que pegarse el curro de parchear nuestros juegos nunca más 😉
+
+This game can be controlled natively using the keyboard, the Joystick Kempston, and, for the first time ever in a game by the Mojon Twins, with Sinclair Interface II (connected to port #1), so Tom-Cat won’t have to work out a hacked version anymore 😉
+FX Recién salido del horno / FX Just cooked!
+
+El desarrollo de este juego ha sido tan rápido que os lo ofrecemos recién salido del horno. Por ello, la pintura del rótulo de la pantalla del menú aún no estaba seca y se ha desprendido un poco. En el próximo juego usaremos Titanlux.
+
+This game’s development has been so fast that we offer you this game just cooked! That’s why the paint we used on the menu screen logo wasn’t dry yet so it fell off quite a bit. In the next game we’ll use a better brand of paint.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+http://www.mojontwins.com/licencia-mt/
+
+
+Licencia
+A continuación os indicamos a qué tenéis que ateneros al usar MK2 o cualquiera de nuestros engines (salvo MK1/La Churrera – Para la licencia de este producto consultar su página http://www.mojontwins.com/juegos_mojonos/la-churrera/) o códigos fuentes, o al utilizar gráficos, ideas, argumentos, personajes, músicas, sonidos, ilustraciones, etc… es decir: TODA NUESTRA OBRA CREATIVA. Gracias a nuestro amigo Marco Fernández por la traducción al inglés.
+
+Todo el contenido de la web, toda nuestra obra creativa, incluido el código fuente está bajo licencia Creative Commons 3.0 “by-nc-ca”, o sea, “Reconocimiento-NoComercial-CompartirIgual 3.0 Unported (CC BY-NC-SA 3.0)”
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES
+
+Esto significa que eres libre de:
+
+– Copiar, distribuir y comunicar públicamente la obra.
+– Transformar la obra.
+– Crear productos derivados de la obra.
+
+Bajo las siguientes condiciones:
+
+Reconocimiento — Debes reconocer los créditos de la obra de la manera especificada por los Mojon Twins (pero no de una manera que sugiera que tiene su apoyo o apoyan el uso que hace de su obra). En este caso, sólo te pedimos que incluyas el texto “Powered by La Churrera” o “Powered by MK2” (según aplique) o incluyas el logo que incluimos en el archivo logo.png en la pantalla de carga y la portada del güego.
+
+No comercial — No puede utilizar esta obra para fines comerciales.
+
+Compartir bajo la misma licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+
+Entendiendo que:
+
+Renuncia — Alguna de estas condiciones puede no aplicarse si se obtiene el permiso explícito de los Mojon Twins.
+
+Aviso — Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta obra.
+
+En resumen
+
+– Los güegos que hagan deben lanzarse bajo una licencia CC equivalente. Si quieres lanzar los güegos bajo otro tipo de licencia, debes hablar con nosotros y pedir permiso. Esto incluye especialmente la elaboración de copias físicas (ver más abajo).
+
+– Debes incluir “Powered by la Churrera” o “Powered by MK2” o “Powered by NOMBRE-DEL-ENGINE” según aplique, o el logo correspondiente en pantalla de carga y portada. No te cuesta ningún trabajo y nos beneficiamos todos.
+
+Sobre las copias físicas
+
+– Copias físicas privadas: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho para tu disfrute propio.
+– Copias físicas promocionales: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho y regalarlo a tus amigos corriendo tú personalmente con todos los gastos.
+– Copias físicas para vender (incluye recompensas en crowdfundings y cualquier otra actividad que implique un intercambio económico): Depende del producto pero, en cualquier caso, lo mejor es preguntar.
+License
+
+You must observe the terms below when using MK2 or any of our engines or source code (save for MK1/la Churrera; read more at http://www.mojontwins.com/juegos_mojonos/la-churrera-english/ ), or when using our graphics, ideas, storylines, characters, music, sounds, illustrations, etc., i.e. ANY OF OUR CREATIVE WORK
+
+All the content on this site, and all of our creative work, including source code, are licensed under Creative Commons 3.0 Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0.)
+
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This means you can freely:
+
+– Copy, distribute and transmit our work.
+– Transform our work.
+– Create products derived from our work.
+
+You may do so under the following terms:
+
+Attribution — You must attribute the work in the manner specified by the Mojón Twins (but not in any way that suggests that they endorse you or your use of the work.) In this case, we only ask that you include the text “Powered by La Churrera” or “Powered by MK2” (as applicable) or that you include the logo included in the file logo.png in the game’s loading screen and cover art.
+
+NonCommercial — You may not use this material for commercial purposes.
+
+Share Alike — If you alter or transform this work, or generate any work derived from it, you can only distribute your derived work under a license identical to this one.
+
+Understanding that:
+
+Disclaimer — Some of these conditions may not be applicable if you obtain explicit permission from the Mojón Twins.
+
+Notice — When reusing or distributing the work, you need to clearly specify the terms in its license.
+
+In a nutshell
+
+– The games you make must be released under an equivalent CC license. If you want to release your games under a different kind of license, you must contact us to get permission. This applies specially to the manufacturing of physical copies (see below.)
+
+– You must include “Powered by la Churrera” or “Powered by MK2” or “Powered by ENGINE-NAME” as applicable, or the corresponding logo on the loading screen and cover art. This is easy for you, and will benefit all of us.
+
+About physical copies
+
+– Private physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge for your own personal use.
+– Promotional physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge to give away to your friends paying for all expenses yourself.
+– Physical copies for sale (including crowdfunding rewards and any activity involving economic transactions): It depends on the product, but in any case, the best practice is always give us a shout and ask.

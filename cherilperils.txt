@@ -1,0 +1,151 @@
+Cheril Perils (Mojon-Twins--Cheril-Perils.tzx)
+by Mojon Twins
+2010/02/01
+http://www.mojontwins.com/juegos_mojonos/cheril_perils/
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Juego / Game: The Mojon Twins, colección Pretujao 2010, vol #6.
+Portada y Pantalla de carga / Cover & Loading Screen: Kendroock
+
+Powered by La Churrera by The Mojon Twins and splib2 by Alvin Albrecht.
+Uses aPPack decompressor by dwedit, adapted by Utopian & optimized by Metalbrain
+Music tracks composed in Beepola
+Historia / Story
+
+Cheril, gracias a su pericia y su fuerza, fue capaz de abandonar la selva de Badajoz, cruzar los polvorientos caminos llenos de bicharracos (próximamente en sus pantallas bajo el título the way of the exploding Cheril), y llegar por fin a la gran ciudad. Sin embargo, pronto se arrepintió de su decisión, tomada con tanta ligereza: la compañía farmaceutica Parasol, fundada en los años 60 por una familia de aberrantes doctores locos, había desarrollado un virus para la guapura que decidieron probar sobre los pobres habitantes de la ciudad. El problema no era el virus en sí, que estaba hecho de puta madre y funcionaba que te cagas, sino que el camión cisterna que emplearon para llevarlo a la ciudad había hecho antes una partida de morapio doble malta y no lo habían limpiado bien. Y claro, todo el mundo sabe que un virus de la guapura con morapio hace que la persona inoculada se convierta en un horrendo y apestoso zombie sin más voluntad que comer cerebros.
+
+Cheril, que está en la inopia, llegó en el justo instante que el alcalde colocaba dos bolas de pinchos en la entrada de la ciudad luego de haber evacuado a los habitantes que aún estaban sanos. Cuando se coscó del tema, quiso salir, pero el alcalde se negó en redondo a quitar las barreras, no fuera que se le escapase algún zombie (o que entrase de nuevo a la ciudad algún sano, que hay gente para todo, hijos míos). Así que la única forma que tiene Cheril de salir de este estercolero y probar suerte en la próxima ciudad es cargándose a los 60 zombies que pululan entre los edificios.
+
+Cheril, thanks to her strenght and intelligence, was able to say goodbye to her homeland, the jungle of Badajoz, travel accross the dusty paths full of monsters, and arrive to the big city. Nevertheless, she repented at once of her decision: the pharmaceutic enterprise “Parasol”, founded in the 60s by a couple of aberrating mad doctors, had developed a special virus which could make people incredibly beautiful and they decided to make their tests on the poor city inhabitants. The problem wasn’t the virus itself, which was awesomely well crafted and worked flawlessly, but the cistern truck which was used to transport it to the city: it was used to transport heavy morapio double-malt and wasn’t properly cleaned after that. And, of course, everybody knows that beautifier virus plus morapio double malt makes infected people to become stupid brain-eating zombies.
+
+Cheril, completely unaware, arrived at the very same time the mayor of this town set up two enormous spiked boulders in the path which was used to enter and exit the city, after he had evacuated the very few “sane” inhabitants. When she realised, she was trapped inside. She wanted to exit the city, but the mayor wouldn’t remove the boulders while Zombies were still luring the city, so the only way for Cheril to escape from this doomed city is to slain the 60 zombies which walk around, so the mayor will remove the boulders and she can kiss this city goodbye!
+
+perils-04 perils-02
+El Juego / The Game
+
+Controla a Cheril en la ciudad maldita de Amarillonia, infestada de zombies. Tu misión es muy sencilla: como dijimos antes, tendrás que reventar a los 60 zombies que pululan por sus calles usando el método de pisotón en toda la crisma. Cuando los veas pasar, ¡lánzate sobre ellos! ¡acéchalos tras un arbusto! ¡revienta cabezas!
+
+Verás que en un par de puntos del mapa hay apestosos viejos guarreras bloqueando el camino. La única forma que tienes de que te dejen pasar es encontrando sujetadores y dándoselos a cambio. Sí, da asco, pero ¿qué ibas a esperar de una ciudad tan sucia y decrépita como Amarillonia?
+
+También encontrarás cochinazos voladores preciosos y gordunos, que podrás empujar para llegar a sitios en un principio inaccesibles. Como son muy ordenados, todos los porcinos volverán a sus posiciones originales cuando te vayas de la pantalla donde están. ¡Joder, no somos nadie justificando las limitaciones del motor!
+
+Cuando te hallas librado de los 60 zombies y la ciudad vuelva a estar limpia, el alcalde retirará las dos bolas de pinchos que hay a la entrada de la ciudad, y podrás salir de la misma. Sólo dirígete a la primera pantalla y ¡vete de allí!
+
+Control Cheril in the doomed city of Yellowenia, infested with zombies. Your mission is relatively easy to understand: smash 60 zombies using the method of busting them jumping on their fragile skulls. When you can see them coming, just drop on them! Jump on them! KILL’EM ALL!
+
+In a couple of places, there’s a vicious, dirty old man which will block your way. The only way to make them go is bringing them some lingerie you will find scattered all over the city. Sure this is disgusty, but what were you expecting from a city like Yellowenia?
+
+You will also find big flying pigs you can push around to make your way stepping on them and jumping higher. Use them wisely, and remember that they are very tidy and will return to their original positions when you exit the screen. Yay, that’s a great way to justify engine limitations.
+
+When you have slain all the 60 zombies, the mayor will remove the boulders which block the exit, in the very first screen of the game. So when you are done, just leave. Good luck!
+
+perils-05 perils-06
+Controles / Controls
+
+O: Izquierda / Left
+P: Derecha / Right
+SPACE: Saltar / Jump.
+Instrucciones de carga / Loading instructions
+
+En modelos de 48K, escribe LOAD “” y pulsa ENTER y PLAY en el casette. El juego cargará automáticamente (si no falla, por supuesto, en cuyo caso puedes repetir pacientemente el proceso).
+
+En modelos de 128K, pon el ordenador en modo 48 BASIC y pulsa Enter. Luego sigue las instrucciones de los modelos de 48K.
+
+For 48K models just type in LOAD “” and press ENTER, then PLAY on tape. The game will load automaticly (unless it fails miserably, in which case you’ll have to start over again).
+
+For 128K moderls, switch to 48 BASIC, and then follow the instructions for the 48K models.
+
+perils-07 perils-08
+FX Ojos Chicucos / FX Eye Strain
+
+Mojon Twins certifica que si juegas al juego en un emulador con la ventana chica morirás. El juego debe ser jugado a pantalla completa. Las tramas de los gráficos de fondo han sido diseñadas para matarte si no lo haces.
+
+Mojon Twins hereby certifies that if you play this game in an emulator using a very small window you will die. This games MUST be played in real hardware OR setting your favourite emulator to run in full screen. The patterns used in the background graphics have been specifically designed to slain you if you don’t.
+
+
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+http://www.mojontwins.com/licencia-mt/
+
+
+Licencia
+A continuación os indicamos a qué tenéis que ateneros al usar MK2 o cualquiera de nuestros engines (salvo MK1/La Churrera – Para la licencia de este producto consultar su página http://www.mojontwins.com/juegos_mojonos/la-churrera/) o códigos fuentes, o al utilizar gráficos, ideas, argumentos, personajes, músicas, sonidos, ilustraciones, etc… es decir: TODA NUESTRA OBRA CREATIVA. Gracias a nuestro amigo Marco Fernández por la traducción al inglés.
+
+Todo el contenido de la web, toda nuestra obra creativa, incluido el código fuente está bajo licencia Creative Commons 3.0 “by-nc-ca”, o sea, “Reconocimiento-NoComercial-CompartirIgual 3.0 Unported (CC BY-NC-SA 3.0)”
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES
+
+Esto significa que eres libre de:
+
+– Copiar, distribuir y comunicar públicamente la obra.
+– Transformar la obra.
+– Crear productos derivados de la obra.
+
+Bajo las siguientes condiciones:
+
+Reconocimiento — Debes reconocer los créditos de la obra de la manera especificada por los Mojon Twins (pero no de una manera que sugiera que tiene su apoyo o apoyan el uso que hace de su obra). En este caso, sólo te pedimos que incluyas el texto “Powered by La Churrera” o “Powered by MK2” (según aplique) o incluyas el logo que incluimos en el archivo logo.png en la pantalla de carga y la portada del güego.
+
+No comercial — No puede utilizar esta obra para fines comerciales.
+
+Compartir bajo la misma licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+
+Entendiendo que:
+
+Renuncia — Alguna de estas condiciones puede no aplicarse si se obtiene el permiso explícito de los Mojon Twins.
+
+Aviso — Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta obra.
+
+En resumen
+
+– Los güegos que hagan deben lanzarse bajo una licencia CC equivalente. Si quieres lanzar los güegos bajo otro tipo de licencia, debes hablar con nosotros y pedir permiso. Esto incluye especialmente la elaboración de copias físicas (ver más abajo).
+
+– Debes incluir “Powered by la Churrera” o “Powered by MK2” o “Powered by NOMBRE-DEL-ENGINE” según aplique, o el logo correspondiente en pantalla de carga y portada. No te cuesta ningún trabajo y nos beneficiamos todos.
+
+Sobre las copias físicas
+
+– Copias físicas privadas: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho para tu disfrute propio.
+– Copias físicas promocionales: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho y regalarlo a tus amigos corriendo tú personalmente con todos los gastos.
+– Copias físicas para vender (incluye recompensas en crowdfundings y cualquier otra actividad que implique un intercambio económico): Depende del producto pero, en cualquier caso, lo mejor es preguntar.
+License
+
+You must observe the terms below when using MK2 or any of our engines or source code (save for MK1/la Churrera; read more at http://www.mojontwins.com/juegos_mojonos/la-churrera-english/ ), or when using our graphics, ideas, storylines, characters, music, sounds, illustrations, etc., i.e. ANY OF OUR CREATIVE WORK
+
+All the content on this site, and all of our creative work, including source code, are licensed under Creative Commons 3.0 Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0.)
+
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This means you can freely:
+
+– Copy, distribute and transmit our work.
+– Transform our work.
+– Create products derived from our work.
+
+You may do so under the following terms:
+
+Attribution — You must attribute the work in the manner specified by the Mojón Twins (but not in any way that suggests that they endorse you or your use of the work.) In this case, we only ask that you include the text “Powered by La Churrera” or “Powered by MK2” (as applicable) or that you include the logo included in the file logo.png in the game’s loading screen and cover art.
+
+NonCommercial — You may not use this material for commercial purposes.
+
+Share Alike — If you alter or transform this work, or generate any work derived from it, you can only distribute your derived work under a license identical to this one.
+
+Understanding that:
+
+Disclaimer — Some of these conditions may not be applicable if you obtain explicit permission from the Mojón Twins.
+
+Notice — When reusing or distributing the work, you need to clearly specify the terms in its license.
+
+In a nutshell
+
+– The games you make must be released under an equivalent CC license. If you want to release your games under a different kind of license, you must contact us to get permission. This applies specially to the manufacturing of physical copies (see below.)
+
+– You must include “Powered by la Churrera” or “Powered by MK2” or “Powered by ENGINE-NAME” as applicable, or the corresponding logo on the loading screen and cover art. This is easy for you, and will benefit all of us.
+
+About physical copies
+
+– Private physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge for your own personal use.
+– Promotional physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge to give away to your friends paying for all expenses yourself.
+– Physical copies for sale (including crowdfunding rewards and any activity involving economic transactions): It depends on the product, but in any case, the best practice is always give us a shout and ask.

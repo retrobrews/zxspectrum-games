@@ -1,0 +1,183 @@
+Cheril the Goddess (Mojon-Twins--Cheril-The-Goddess--V2.tap)
+by Mojon Twins
+2010/02/01
+http://www.mojontwins.com/juegos_mojonos/cheril-the-goddess/
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Diseño / Design: na_th_an, anjuel, jf_jara & eightbiter
+Juego / Game: The Mojon Twins, colección Pretujao, vol #10.
+1-bit sfx: Shiru
+Portada y Pantalla de carga / Cover & Loading Screen: Kendroock
+
+Powered by La Churrera 4.0 by The Mojon Twins and splib2 by Alvin Albrecht.
+Uses aPPack decompressor by dwedit, adapted by Utopian & optimized by Metalbrain
+Music tracks composed in Beepola
+Historia / Story
+
+En el templo del Pepinaco, el Príncipe Pollo, famoso por sus profundos estudios de lo arcano, su intelecto supino, y por el hecho de tener un pie un poco más grande que el otro, esperaba una entrega de arogas, una sustancia que incrementaba el poder interior hasta el grado de Master del Universo. Con este poder podría ser tan fuerte que con sólo pensar mal en alguien, podría hacerlo explotar. Y eso molaba de la hostia.
+
+Mientras tanto, y gracias a haber pasado tantas aventuras, Cheril había aprendido a volar y a tirar bolas de concentrado de malaideol carbónico (en forma de protoplasma), pero estas actividades le resultaban harto cansinas, hasta el punto de que le absorvían toda la energía vital. Investigando por los bajos fondos del Olimpo Chico (provincia de Badajoz), supo de las arogas que esperaba el Príncipe Pollo.
+
+Entonces lo tuvo claro: tenía que intentar colarse por todos los medios en el Templo del Pepinaco e interceptar la entrega, para así adquirir el poder total y poder volar y echar bolas sin que le costase más que doblar el meñique, y de esa manera poder dominar el mundo y, en especial, someter a Eleuterio, el Mono Serio, su más pérfido enemigo.
+
+Para lograr su objetivo, tenía que activar los tres altares de la tri-fuerza elemental Sila-Tsikl venciéndolos con los Talismanes Alemanes, lo que activaría el cerrojo de la puerta del Templo del Pepino; además encontrar la llave que le permitiría abrir dicho cerrojo.
+
+¡Qué de cosas!
+
+ 
+
+In the Temple of the Big Cucumber, Prince Chicken (who was famous for his studies of the arcane, for being a proud intelligent man and for having a foot slightly larger than the other), awaited a very special delivery: “arogas”, a sustance capable of increasing his inner power to a “Master of the Universe” level. With such power, he would be so strong that, only by thinking bad of somebody, he could make it explode. And that rocks big time.
+
+Meanwhile, and thanks to having had so many adventures, Cheril had learned how to fly and throw energy balls made of concentrated “bad will”. There was a proble, thought: it took quite a lot of energy to produce such skills, so much that they ended draining her vitality! So, investigating in the slums of Little Olimpo (province of Badajoz), she learned about Prince Chicken and the delivery of arogas he was waiting.
+
+So she was decided: she would sneak by all possible means inside the Temple of the Big Cucumber to intercept the delivery, so she could acquire such a big power for herself so flying and firing power balls wouldn’t drain her vitality. That way she could finally take over the work, and, specially, submit Eleuterio, the Very Serious Monkey, her nemesis.
+
+To achieve such an objective, she learned she had to activate the three Sila-Tsikl elemental tri-force shrines by means of breaking them with the Sacred Talismans – such a thing would make the temple lock to appear so she could actually open it. Using the temple key, which she had to find as well.
+
+So many things!
+El Juego / The Game
+
+Controla a Cheril en su misión. Hay muchas cosas que hacer, y para ello necesitarás objetos. Cheril puede llevar sólo un objeto cada vez, de forma que si intentas coger uno nuevo mientras lleves uno, dejarás el que llevas en su lugar. Para coger/intercambiar objetos pulsa [ABAJO].
+
+Igualmente, habrá veces en las que quieras utilizar el objeto que llevas. Para ello, sitúate sobre el lugar donde quieras usarlo, y pulsa [ABAJO].
+
+Para hacer que Cheril vuele, tendrás que hacer fuerza. Para hacer fuerza, pulsa [ARRIBA]. Con esto lograrás que Cheril vaya cogiendo velocidad vertical, pero si haces fuerza durante más de un segundo Cheril empezará a perder vitalidad. Tienes que intentar conseguir velocidad sin cansar a Cheril. Puede parecer complicado al principio, pero se domina pronto.
+
+Cheril además puede disparar bolas de energía. Para disparar, pulsa [FUEGO]. Las bolas también drenan la vitalidad de Cheril, así que no las uses a menos que sea totalmente necesario. Recuerda que los enemigos hacen MUCHA pupa.
+
+Hay formas de que Cheril recargue su vitalidad, pero tendrás que adivinarlas tú.
+
+Al principio del juego podrás elegir nivel de dificultad. Juega en nivel fácil si quieres… Pero no verás el final a menos que elijas, al menos, el nivel medio.
+
+ 
+
+You control Cheril. There’s plenty of things to do, and you’ll need special objects. Cheril can only carry ONE object at a time, so if you try to get a new one while you are carring an object, you will drop the one you carry in the place of the one you take. To get/interchange objects press DOWN.
+
+Besides, you’ll have to give those objects a use. To use an object, just walk to the place you want to use it and press DOWN.
+
+For Cheril to fly, she has to “push”. You can make her “push” by pressing UP. But beware: “pushing” for too long drains Cheril’s vitality, so you have to do this carefully. Timing short “pushes” can make her gain momentum. Take your time to master the technique, it won’t take long.
+
+Cheril can also fire power balls. You can fire pressing FIRE. Power balls also drain Cheril, but think that enemies do quite a lot of harm. Use this feature wisely, and just when needed!
+
+Cheril can also regain her vitality by means of a special action we won’t reveal ‘cause it’s easy enough to find out!
+
+You can choose the difficulty level, but the easiest level won’t show the real ending.
+Controles / Controls
+
+O: Izquierda / Left
+P: Derecha / Right
+Q: Arriba (hacer fuerza) / Up (push)
+A: Abajo (objetos)/ Down (objects)
+SPACE: Fuego / Fire
+Instrucciones de carga / Loading instructions
+
+En modelos de 48K, escribe LOAD “” y pulsa ENTER y PLAY en el casette. El juego cargará automáticamente (si no falla, por supuesto, en cuyo caso puedes repetir pacientemente el proceso).
+
+En modelos de 128K, pon el ordenador en modo 48 BASIC y pulsa Enter. Luego sigue las instrucciones de los modelos de 48K.
+
+For 48K models just type in LOAD “” and press ENTER, then PLAY on tape. The game will load automaticly (unless it fails miserably, in which case you’ll have to start over again).
+
+For 128K moderls, switch to 48 BASIC, and then follow the instructions for the 48K models.
+
+ 
+FX Jan-ken-pon
+
+Si no entiendes este juego tan sencillo, no tendrás ni idea de qué hacer.
+
+If you don’t understand such an easy game, you won’t have the slightest clue on what to do.
+FX juego 2011 que sale en 2012 / FX 2011 game released in 2012
+
+Pues sí, se trata de otro juego más de 2011 que terminamos sacando en 2012. Es la vida.
+
+Yeah, this is yet another 2011 we end up releasing in 2012. That’s life.
+FX UNSynchro Sprites / FX UnSynchro Sprites
+
+Nuestros juegos no van a 50 faps.
+
+Our games don’t run at 50 faps.
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+http://www.mojontwins.com/licencia-mt/
+
+
+Licencia
+A continuación os indicamos a qué tenéis que ateneros al usar MK2 o cualquiera de nuestros engines (salvo MK1/La Churrera – Para la licencia de este producto consultar su página http://www.mojontwins.com/juegos_mojonos/la-churrera/) o códigos fuentes, o al utilizar gráficos, ideas, argumentos, personajes, músicas, sonidos, ilustraciones, etc… es decir: TODA NUESTRA OBRA CREATIVA. Gracias a nuestro amigo Marco Fernández por la traducción al inglés.
+
+Todo el contenido de la web, toda nuestra obra creativa, incluido el código fuente está bajo licencia Creative Commons 3.0 “by-nc-ca”, o sea, “Reconocimiento-NoComercial-CompartirIgual 3.0 Unported (CC BY-NC-SA 3.0)”
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES
+
+Esto significa que eres libre de:
+
+– Copiar, distribuir y comunicar públicamente la obra.
+– Transformar la obra.
+– Crear productos derivados de la obra.
+
+Bajo las siguientes condiciones:
+
+Reconocimiento — Debes reconocer los créditos de la obra de la manera especificada por los Mojon Twins (pero no de una manera que sugiera que tiene su apoyo o apoyan el uso que hace de su obra). En este caso, sólo te pedimos que incluyas el texto “Powered by La Churrera” o “Powered by MK2” (según aplique) o incluyas el logo que incluimos en el archivo logo.png en la pantalla de carga y la portada del güego.
+
+No comercial — No puede utilizar esta obra para fines comerciales.
+
+Compartir bajo la misma licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+
+Entendiendo que:
+
+Renuncia — Alguna de estas condiciones puede no aplicarse si se obtiene el permiso explícito de los Mojon Twins.
+
+Aviso — Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta obra.
+
+En resumen
+
+– Los güegos que hagan deben lanzarse bajo una licencia CC equivalente. Si quieres lanzar los güegos bajo otro tipo de licencia, debes hablar con nosotros y pedir permiso. Esto incluye especialmente la elaboración de copias físicas (ver más abajo).
+
+– Debes incluir “Powered by la Churrera” o “Powered by MK2” o “Powered by NOMBRE-DEL-ENGINE” según aplique, o el logo correspondiente en pantalla de carga y portada. No te cuesta ningún trabajo y nos beneficiamos todos.
+
+Sobre las copias físicas
+
+– Copias físicas privadas: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho para tu disfrute propio.
+– Copias físicas promocionales: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho y regalarlo a tus amigos corriendo tú personalmente con todos los gastos.
+– Copias físicas para vender (incluye recompensas en crowdfundings y cualquier otra actividad que implique un intercambio económico): Depende del producto pero, en cualquier caso, lo mejor es preguntar.
+License
+
+You must observe the terms below when using MK2 or any of our engines or source code (save for MK1/la Churrera; read more at http://www.mojontwins.com/juegos_mojonos/la-churrera-english/ ), or when using our graphics, ideas, storylines, characters, music, sounds, illustrations, etc., i.e. ANY OF OUR CREATIVE WORK
+
+All the content on this site, and all of our creative work, including source code, are licensed under Creative Commons 3.0 Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0.)
+
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This means you can freely:
+
+– Copy, distribute and transmit our work.
+– Transform our work.
+– Create products derived from our work.
+
+You may do so under the following terms:
+
+Attribution — You must attribute the work in the manner specified by the Mojón Twins (but not in any way that suggests that they endorse you or your use of the work.) In this case, we only ask that you include the text “Powered by La Churrera” or “Powered by MK2” (as applicable) or that you include the logo included in the file logo.png in the game’s loading screen and cover art.
+
+NonCommercial — You may not use this material for commercial purposes.
+
+Share Alike — If you alter or transform this work, or generate any work derived from it, you can only distribute your derived work under a license identical to this one.
+
+Understanding that:
+
+Disclaimer — Some of these conditions may not be applicable if you obtain explicit permission from the Mojón Twins.
+
+Notice — When reusing or distributing the work, you need to clearly specify the terms in its license.
+
+In a nutshell
+
+– The games you make must be released under an equivalent CC license. If you want to release your games under a different kind of license, you must contact us to get permission. This applies specially to the manufacturing of physical copies (see below.)
+
+– You must include “Powered by la Churrera” or “Powered by MK2” or “Powered by ENGINE-NAME” as applicable, or the corresponding logo on the loading screen and cover art. This is easy for you, and will benefit all of us.
+
+About physical copies
+
+– Private physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge for your own personal use.
+– Promotional physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge to give away to your friends paying for all expenses yourself.
+– Physical copies for sale (including crowdfunding rewards and any activity involving economic transactions): It depends on the product, but in any case, the best practice is always give us a shout and ask.

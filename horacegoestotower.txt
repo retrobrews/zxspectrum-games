@@ -1,0 +1,183 @@
+Horace Goes To The Tower (Mojon-Twins--Horace-Goes-to-the-Tower.tzx)
+by Mojon Twins
+2011/08/01
+http://www.mojontwins.com/juegos_mojonos/1773-2/
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Juego / Game: The Mojon Twins, colección Pretujao, vol #8.
+
+Based upon the backstory written by ewgf in the WOS forums.
+
+Powered by La Churrera by The Mojon Twins and splib2 by Alvin Albrecht.
+Uses aPPack decompressor by dwedit, adapted by Utopian & optimized by Metalbrain
+
+Dedicated to William Tang.
+
+La idea de este juego viene de un hilo del foro de World Of Spectrum donde se bromeaba sobre la existencia de versiones para Commodore 64 de juegos de Horace, considerado por muchos la “mascota” del ZX Spectrum. Inspirados por una historia ficticia que escribio ewgf sobre un posible juego sobre el tema, nos entraron ganas de hacer un churrera sencillo… Somo como excusa de dibujar algunos gráficos y distraernos de nuestros proyectos gordos prinpales. ¡Aquí está!
+
+The idea behind this game comes from a thread in the World of Spectrum forums, where we were joking about the existence of Commodore 64 versions of Horace games, as Horace may be considered as some sort of “mascot” for the ZX Spectrum. Inspired by the backstory written by ewgf for a possible game about it, we felt like making a simple “Churrera” game, just an excuse to draw some graphics, and to have some rest from our big, ongoing projects for this year. Well, here it is!
+Historia / Story
+
+Historia más o menos adaptada de la original por ewgf [link]
+
+Horacio, borracho y anhelando la fama y fortuna de los viejos tiempos cuando era una estrella de los videojuegos muy conocida, cedió al chantaje de ese viejo huevo podrido, Dizzy, y participa en varios juegos de Commodore 64 de bajo presupuesto – negocios sucios y oscuros… Pero necesitaba el dinero.
+
+Trágicamente, no sólo no se solucionaron sus problemas, sino que los juegos fueron anunciados a bombo y platillo en la prensa amarilla. “Horacio se vende al enemigo”, decían los titulares. Ya nadie le podía mirar a la cara: ¡la que se consideraba “mascota” del ZX Spectrum participando en juegos de C64! Eso resultó ser un shock. Eran otros tiempos. Ahora vemos a Sonic en la Wii y nos da igual, pero entonces la mentalidad era distinta.
+
+Se sintió tan miserable que ni siquiera esperó a que los maderos viniesen a arrestarle, así que fue a la comisaría más cercana y se entregó. La policía lo esposó y lo llevó a la Torre de Londres (provincia de Badajoz), comunicándole que sería decapitado al día siguiente.
+
+“Bueno, al menos, cuando me muera, terminará mi sufrimiento”
+
+“Ni de coña”, dijo una voz. Horacio miró alrededor suya, buscando a su interlocutor, hasta que descubrió al fantasma de Sabreman en una esquina de la habitación. Horacio retrocedió aterrorizado, mientras Sabreman continuaba su discurso: “Hay un rincón especial en el infierno de los videojuegos reservado para los vendidos, y es ahí adonde irás y permanecerás por toda la identidad entre horribles tormentos”. Hizo entonces una pausa y luego aulló “UUuuuuuuuuuuuh!” para dar más miedo.
+
+“Yo… escaparé del infierno de los videojuegos”, contestó Horacio, envalentonado, “Escaparé de algún modo y entonces iré al cielo de los videojuegos”.
+
+“No hay manera”, rió Sabreman de forma sádica, recreándose en el sufrimiento de Horacio de la misma forma que lo hizo mientras contemplaba a miles de niños gastando su dinero en ese conato de juego llamado “Sabre Wulf”. “Existen las mismas posibilidades de escapar del infierno de los videojuegos que de que Joefish mueva su culo perezoso y termine Buzzsaw”.
+
+Entonces se lo pensó mejor. “En realidad, hay una forma en la que puedas ayudarte a tí, y a mí de camino. Si escapas de aquí, y encuentras y quemas las copias originales de tus juegos de C64 y las de otros juegos protagonizados por estrellas que se vendieron por sucio dinero, entonces no irás al infierno de los videojuegos cuando mueras”.
+
+“Cojonudo”, dijo Horacio, y corrió hacia la puerta. Intentó abrirla, pero estaba cerrada con llave, como es lógico en una prisión. Entonces Sabreman le dijo “Mira, te abro la puerta si me prometes que también buscarás los originales de mis dos juegos para C64, Sabre Wulf y Underwurlde, para que me pueda librar del infierno de los videojuegos”.
+
+“¡Trato hecho!”, aceptó Horacio. Entonces la puerta desapareció y Horacio salió de la pantalla (sin scroll, joder, que es un juego de Spectrum), saliendo al pasillo. ¡Comienza la misión para salvar tu alma! (Y la de Sabreman, de camino).
+
+Somewhat adapted from the original by ewgf [link]
+
+Horace, whilst drunk and pining for the fame and the wealth of the old days back when he was a well known computer game star, gives in to the evil councils of that rotten old egg, Dizzy, and stars in some games on the Commodore 64 – a really obscure business. He really needed the money.
+
+Tragically, not only did the C64 games not lead to a revival of Horace’s Spectrum career but the C64 games, which he’d hope so desperately would be unnoticed by all, were announced to all and sundry in the gutter press! “Horace sells out in C64 shocker” went the headlines, to Horace’s utter dismay. Suddenly, no one in the street would look at him. The ZX Spectrum so-called mascot starring in C64 games! That’s a shock! He felt like Katie Price, only without the placky tits, but with a brain.
+
+He was so miserable that he didn’t even wait for the coppers to come and arrest him, instead going to the nearest nick by choice and giving himself in. The police handcuffed him and put him in the Tower of London, telling him that the next day he’d be beheaded.
+
+“Oh well, at least when I’m dead my suffering will be over”.
+
+“It bloody won’t be”, said a voice, and Horace whirled around to see the ghost of Sabre Man standing in the corner of the room. Horace jumped back in terror, and Sabre Man continued “There’s a special corner of gaming Hell reserved for sellouts, and that’s where you’re heading, and you’ll spend gaming eternity”. He paused then added “whooo-ooooooooooooo” to bring home just how scary Horace’s post death future was going to be.
+
+“I-I’ll escape from gaming Hell”, said Horace, “that’s what I’ll do. I will escape and then I’ll get to gaming Heaven somehow”.
+
+“No chance”, laughed Sabre Man, taking the same sadistic delight in Horace’s plight as he had when he’d witnessed thousands of kids spending their hard earned pocket money on that crappy excuse for a game Sabre Wulf, “There’s about as much chance of someone escaping from gaming Hell as there is of Joefish getting his lazy bottom in gear and finishing Buzzsaw.”
+
+“Actually, there is a way to help both of us. If you escape from here, and burn the master copies of your C64 games, and the master copies of other sell-out games, then you won’t go to gaming Hell”.
+
+“Fecking wow!”, cried Horace in delight, and he jumped up and ran to the door. He tried to open it, but it was locked, being a prison cell and all.  “I’ll agree to open the door if you agree to find and burn the master copies of my two C64 games, Sabre Wulf and Underwurlde so that I’ll be freed from gaming Hell too”.
+
+“Fair enough”, nodded Horace, and the door disappeared and Horace exited the screen (no scrolling here, it’s a Speccy game!) and emerged into the corridor. Jumping over the first fatally deep gap between the floating platforms (if they had those in real prisons then they wouldn’t be over populated!) Horace began his mission…
+El Juego / The Game
+
+El juego es muy sencillo: correr y saltar, buscar llaves para abrir el paso a habitaciones inaccesibles, y recoger todas las cintas originales (10 en total) desperdigadas por la torre.
+
+En muchas pantallas, para poder avanzar, deberás empujar unos bloques especiales (verdes y a cuadros) y colocarlos en los sitios adecuados para poder llegar a plataformas más altas.
+
+Si te quedas atrapado, y gracias a la magia de la informática, puedes pulsar R para que todo vuelva a al sitio que tenía en el momento de entrar en la pantalla (incluido tú).
+
+The game is simple: jump and run, find keys to fit in keyholes and open your path to unaccesible areas, and get all the master tapes (10 in total) spread accross the whole tower.
+
+In many screens, in order to be able to advance, you’ll have to push special blocks (checkered and green) to move them to most adecuate places so you can jump on them and reach higher platforms you wouldn’t otherwise reach.
+
+If you get trapped, thanks to the miracles of modern science, you can press R so everything gets back to its original place (you included).
+Manejo/Controls:
+
+Puedes seleccionar entre teclado, joystick Kempston, o joystick Sinclair pulsando 1, 2, o 3 en la pantalla de título. Los controles son los siguientes:
+
+O / joystick a la izquierda: Correr a la izquierda.
+P / joystick a la derecha: Correr a la derecha.
+SPACE / botón del joystick: Saltar.
+R: Reiniciar la pantalla actual.
+
+You can select keyboard, kempston or sinclair joystick pressing 1, 2 or 3 in the title screen. Controls are as following:
+
+O / joystick left: run left.
+P / joystick right: run right.
+SPACE / joystick fire: jump.
+R: Reset current screen.
+
+FX En una tarde / FX just one afternoon
+
+Sí, la Churrera funciona. ¡En sólo una tarde de trabajo, un nuevo juego completo!
+
+Yeah, the Churrera works. Just one afternoon and another game is released!
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+http://www.mojontwins.com/licencia-mt/
+
+
+Licencia
+A continuación os indicamos a qué tenéis que ateneros al usar MK2 o cualquiera de nuestros engines (salvo MK1/La Churrera – Para la licencia de este producto consultar su página http://www.mojontwins.com/juegos_mojonos/la-churrera/) o códigos fuentes, o al utilizar gráficos, ideas, argumentos, personajes, músicas, sonidos, ilustraciones, etc… es decir: TODA NUESTRA OBRA CREATIVA. Gracias a nuestro amigo Marco Fernández por la traducción al inglés.
+
+Todo el contenido de la web, toda nuestra obra creativa, incluido el código fuente está bajo licencia Creative Commons 3.0 “by-nc-ca”, o sea, “Reconocimiento-NoComercial-CompartirIgual 3.0 Unported (CC BY-NC-SA 3.0)”
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES
+
+Esto significa que eres libre de:
+
+– Copiar, distribuir y comunicar públicamente la obra.
+– Transformar la obra.
+– Crear productos derivados de la obra.
+
+Bajo las siguientes condiciones:
+
+Reconocimiento — Debes reconocer los créditos de la obra de la manera especificada por los Mojon Twins (pero no de una manera que sugiera que tiene su apoyo o apoyan el uso que hace de su obra). En este caso, sólo te pedimos que incluyas el texto “Powered by La Churrera” o “Powered by MK2” (según aplique) o incluyas el logo que incluimos en el archivo logo.png en la pantalla de carga y la portada del güego.
+
+No comercial — No puede utilizar esta obra para fines comerciales.
+
+Compartir bajo la misma licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+
+Entendiendo que:
+
+Renuncia — Alguna de estas condiciones puede no aplicarse si se obtiene el permiso explícito de los Mojon Twins.
+
+Aviso — Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta obra.
+
+En resumen
+
+– Los güegos que hagan deben lanzarse bajo una licencia CC equivalente. Si quieres lanzar los güegos bajo otro tipo de licencia, debes hablar con nosotros y pedir permiso. Esto incluye especialmente la elaboración de copias físicas (ver más abajo).
+
+– Debes incluir “Powered by la Churrera” o “Powered by MK2” o “Powered by NOMBRE-DEL-ENGINE” según aplique, o el logo correspondiente en pantalla de carga y portada. No te cuesta ningún trabajo y nos beneficiamos todos.
+
+Sobre las copias físicas
+
+– Copias físicas privadas: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho para tu disfrute propio.
+– Copias físicas promocionales: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho y regalarlo a tus amigos corriendo tú personalmente con todos los gastos.
+– Copias físicas para vender (incluye recompensas en crowdfundings y cualquier otra actividad que implique un intercambio económico): Depende del producto pero, en cualquier caso, lo mejor es preguntar.
+License
+
+You must observe the terms below when using MK2 or any of our engines or source code (save for MK1/la Churrera; read more at http://www.mojontwins.com/juegos_mojonos/la-churrera-english/ ), or when using our graphics, ideas, storylines, characters, music, sounds, illustrations, etc., i.e. ANY OF OUR CREATIVE WORK
+
+All the content on this site, and all of our creative work, including source code, are licensed under Creative Commons 3.0 Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0.)
+
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This means you can freely:
+
+– Copy, distribute and transmit our work.
+– Transform our work.
+– Create products derived from our work.
+
+You may do so under the following terms:
+
+Attribution — You must attribute the work in the manner specified by the Mojón Twins (but not in any way that suggests that they endorse you or your use of the work.) In this case, we only ask that you include the text “Powered by La Churrera” or “Powered by MK2” (as applicable) or that you include the logo included in the file logo.png in the game’s loading screen and cover art.
+
+NonCommercial — You may not use this material for commercial purposes.
+
+Share Alike — If you alter or transform this work, or generate any work derived from it, you can only distribute your derived work under a license identical to this one.
+
+Understanding that:
+
+Disclaimer — Some of these conditions may not be applicable if you obtain explicit permission from the Mojón Twins.
+
+Notice — When reusing or distributing the work, you need to clearly specify the terms in its license.
+
+In a nutshell
+
+– The games you make must be released under an equivalent CC license. If you want to release your games under a different kind of license, you must contact us to get permission. This applies specially to the manufacturing of physical copies (see below.)
+
+– You must include “Powered by la Churrera” or “Powered by MK2” or “Powered by ENGINE-NAME” as applicable, or the corresponding logo on the loading screen and cover art. This is easy for you, and will benefit all of us.
+
+About physical copies
+
+– Private physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge for your own personal use.
+– Promotional physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge to give away to your friends paying for all expenses yourself.
+– Physical copies for sale (including crowdfunding rewards and any activity involving economic transactions): It depends on the product, but in any case, the best practice is always give us a shout and ask.

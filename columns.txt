@@ -1,0 +1,161 @@
+Columns ZX (Mojon-Twins--Columns.tzx)
+by Mojon Twins
+2009/01/01
+http://www.mojontwins.com/juegos_mojonos/columns-zx/
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Programa (ZX Spectrum): Iforeve
+Gráficos: Anjuel, na_th_an
+Música + FX: Wyz (partitura: KNM)
+Beta Testers: Tony Brazil y Konamito
+Hardware Tester: Beyker
+Producción: Karnevi
+
+Versión para Amstrad CPC por ESP Soft disponible en la web de Computer Emuzone [link]
+Introducción
+
+Columns es un juego en el que tienes que ir eliminando piedras y ganando puntos, de modo que pulverices el record del mundo de piedras retiradas. Está basado en el original de SEGA, un juego que hizo historia allá por los años noventa e incluso, hoy en día, siguen sacando versiones nuevas con opciones novedosas pero con la idea del original: retirar gemas en bloques de 3 o más.
+El juego
+
+Hay dos formas de jugar al Columns. Por un lado está la tradicional que es bien sencilla, retira el máximo número de piedras antes de que el tiempo llegue a cero o de que se te llene la pantalla de piedras y mueras aplastado.
+
+La segunda forma de jugar es por niveles: Resulta que un día, una princesita fue enclaustrada en lo alto de una pirámide para que un apuesto príncipe azul la salvase y la tomase en matrimonio (si procede, claro). Al igual que en los bonitos cuentos tradicionales, tenemos que rescatar a la princesa presa en la pirámide. Para llegar a ella tenemos que ir avanzando habitaciones. Cada habitación es un nivel y cuanto más cerca estemos más difícil será que pasemos porque las piedras que tendremos que retirar serán cada vez más, caerán más rápido y el tiempo cada vez menor.
+Pero no todo son malas noticias, cada vez que pasemos de habitación conseguimos 10 segundos extra y cada vez que retiremos piedras en cantidad mayor que tres, conseguimos también tiempo extra. Cuantas más piedras de un golpe, más puntos.
+
+¿Rescataremos a la princesita? Date cuenta que esto es una contrarreloj y como tal, hay que actuar deprisa o el tiempo se acaba y acabarás descansando debajo de una torre de piedras, al igual que lo hacen múltiples aspirantes a rescatar a la princesa Genara. Cada vez que superes un nivel verás el plano de dónde te encuentras, después entrarás en una habitación limpia en la que tendrás que retirar más piedras. Así hasta el final, hasta que rescates a la princesa. Buena suerte.
+Controles
+
+Puedes elegir Joystick o Teclas (redefinibles). Estas son las teclas por defecto:
+
+    O: Izquierda
+    P: Derecha
+    A: Bajar rápido
+    Sp: Rotar
+    H: Pausa
+    G: Abortar partida
+    6: Bajar FX
+    7: Subir FX
+    5: Bajar Música
+    8: Subir Música
+
+Ojo, al mantener pulsada la tecla A el bloque de piedras caerá rápido hasta que sueltes esa tecla.
+Descarga
+
+http://www.mojontwins.com/juegos/Mojon-Twins–Columns.tzx
+
+
+Introduction
+
+Columns is a game in which you have to eliminate stones and gain points, so that you pulverize the world record of retired stones. It is based on the original SEGA, a game that made history back in the nineties and even, today, continue to release new versions with innovative options but with the idea of ​​the original: remove gems in blocks of 3 or more.
+The game
+
+There are two ways to play Columns. On the one hand there is the traditional one that is very simple, remove the maximum number of stones before the time reaches zero or that you fill the screen of stones and die crushed.
+
+The second way to play is by levels: It turns out that one day, a little princess was cloistered on top of a pyramid for a handsome Prince Charming to save her and take her in marriage (if necessary, of course). As in the beautiful traditional stories, we have to rescue the princess dam in the pyramid. To get to it we have to go advancing rooms. Each room is a level and the closer we are the more difficult it will be for us to pass because the stones that we will have to remove will be more and more, they will fall faster and the time decreasing.
+But not everything is bad news, every time we move from room we get 10 extra seconds and each time we remove stones in quantity greater than three, we also get extra time. The more stones of a stroke, the more points.
+
+columns2_big
+
+Shall we rescue the little princess? Realize that this is a time trial and as such, you have to act quickly or time is running out and you will end up resting under a stone tower, as do multiple aspirants to rescue Princess Genara. Each time you pass a level you will see the map of where you are, then you will enter a clean room in which you will have to remove more stones. So until the end, until you rescue the princess. Good luck.
+Controls
+
+You can choose Joystick or Keys (redefinable). These are the default keys:
+
+    O: Left
+    P: Right
+    A: Fast download
+    Sp: Rotate
+    H: Pause
+    G: Abort game
+    6: Download FX
+    7: Upload FX
+    5: Download Music
+    8: Upload Music
+
+Be careful, holding down the A key the stone block will fall fast until you release that key.
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+http://www.mojontwins.com/licencia-mt/
+
+
+Licencia
+A continuación os indicamos a qué tenéis que ateneros al usar MK2 o cualquiera de nuestros engines (salvo MK1/La Churrera – Para la licencia de este producto consultar su página http://www.mojontwins.com/juegos_mojonos/la-churrera/) o códigos fuentes, o al utilizar gráficos, ideas, argumentos, personajes, músicas, sonidos, ilustraciones, etc… es decir: TODA NUESTRA OBRA CREATIVA. Gracias a nuestro amigo Marco Fernández por la traducción al inglés.
+
+Todo el contenido de la web, toda nuestra obra creativa, incluido el código fuente está bajo licencia Creative Commons 3.0 “by-nc-ca”, o sea, “Reconocimiento-NoComercial-CompartirIgual 3.0 Unported (CC BY-NC-SA 3.0)”
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES
+
+Esto significa que eres libre de:
+
+– Copiar, distribuir y comunicar públicamente la obra.
+– Transformar la obra.
+– Crear productos derivados de la obra.
+
+Bajo las siguientes condiciones:
+
+Reconocimiento — Debes reconocer los créditos de la obra de la manera especificada por los Mojon Twins (pero no de una manera que sugiera que tiene su apoyo o apoyan el uso que hace de su obra). En este caso, sólo te pedimos que incluyas el texto “Powered by La Churrera” o “Powered by MK2” (según aplique) o incluyas el logo que incluimos en el archivo logo.png en la pantalla de carga y la portada del güego.
+
+No comercial — No puede utilizar esta obra para fines comerciales.
+
+Compartir bajo la misma licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+
+Entendiendo que:
+
+Renuncia — Alguna de estas condiciones puede no aplicarse si se obtiene el permiso explícito de los Mojon Twins.
+
+Aviso — Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta obra.
+
+En resumen
+
+– Los güegos que hagan deben lanzarse bajo una licencia CC equivalente. Si quieres lanzar los güegos bajo otro tipo de licencia, debes hablar con nosotros y pedir permiso. Esto incluye especialmente la elaboración de copias físicas (ver más abajo).
+
+– Debes incluir “Powered by la Churrera” o “Powered by MK2” o “Powered by NOMBRE-DEL-ENGINE” según aplique, o el logo correspondiente en pantalla de carga y portada. No te cuesta ningún trabajo y nos beneficiamos todos.
+
+Sobre las copias físicas
+
+– Copias físicas privadas: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho para tu disfrute propio.
+– Copias físicas promocionales: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho y regalarlo a tus amigos corriendo tú personalmente con todos los gastos.
+– Copias físicas para vender (incluye recompensas en crowdfundings y cualquier otra actividad que implique un intercambio económico): Depende del producto pero, en cualquier caso, lo mejor es preguntar.
+License
+
+You must observe the terms below when using MK2 or any of our engines or source code (save for MK1/la Churrera; read more at http://www.mojontwins.com/juegos_mojonos/la-churrera-english/ ), or when using our graphics, ideas, storylines, characters, music, sounds, illustrations, etc., i.e. ANY OF OUR CREATIVE WORK
+
+All the content on this site, and all of our creative work, including source code, are licensed under Creative Commons 3.0 Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0.)
+
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This means you can freely:
+
+– Copy, distribute and transmit our work.
+– Transform our work.
+– Create products derived from our work.
+
+You may do so under the following terms:
+
+Attribution — You must attribute the work in the manner specified by the Mojón Twins (but not in any way that suggests that they endorse you or your use of the work.) In this case, we only ask that you include the text “Powered by La Churrera” or “Powered by MK2” (as applicable) or that you include the logo included in the file logo.png in the game’s loading screen and cover art.
+
+NonCommercial — You may not use this material for commercial purposes.
+
+Share Alike — If you alter or transform this work, or generate any work derived from it, you can only distribute your derived work under a license identical to this one.
+
+Understanding that:
+
+Disclaimer — Some of these conditions may not be applicable if you obtain explicit permission from the Mojón Twins.
+
+Notice — When reusing or distributing the work, you need to clearly specify the terms in its license.
+
+In a nutshell
+
+– The games you make must be released under an equivalent CC license. If you want to release your games under a different kind of license, you must contact us to get permission. This applies specially to the manufacturing of physical copies (see below.)
+
+– You must include “Powered by la Churrera” or “Powered by MK2” or “Powered by ENGINE-NAME” as applicable, or the corresponding logo on the loading screen and cover art. This is easy for you, and will benefit all of us.
+
+About physical copies
+
+– Private physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge for your own personal use.
+– Promotional physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge to give away to your friends paying for all expenses yourself.
+– Physical copies for sale (including crowdfunding rewards and any activity involving economic transactions): It depends on the product, but in any case, the best practice is always give us a shout and ask.

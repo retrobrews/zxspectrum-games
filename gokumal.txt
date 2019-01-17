@@ -1,0 +1,173 @@
+Goku Mal (mojon-twins--goku-mal.tap)
+by Mojon Twins
+2013/11/01
+http://www.mojontwins.com/juegos_mojonos/goku-mal/
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Juego / Game: The Mojon Twins
+Portada / Cover: kendroock
+Historia, Concepto y Todo / Story, concept and whatever: na_th_an
+Música y ruidicos / Music + SFX: David Sánchez aka Davidian aka Murciano aka tu amigo
+Powered by PSG Player by WYZ and splib2 by Alvin Albrech.
+Uses aPPack decompressor by dwedit, adapted by Utopian & optimized by Metalbrain
+
+Powered by La Churrera 3.99.3 by The Mojon Twins and splib2 by Alvin Albrecht.
+Dedicated to:  Javier Cano, D.E.P.
+
+Tested by: metr81, Davidian, Mojon Twins
+
+Colección Pretujao, vol #16.
+
+ 
+Historia / Story
+
+Los monos hacen moneces y monean. También monacionan, y a veces demonizan. Pero a Eleuterio, el Mono Serio lo que más le gustaba del mundo era inventar. Su padre le regaló un quimicefa cuando cumplió 5 años moniles (equivalentes a 6.73 años de persona) y desde entonces no había parado. Empezó con tonterías, que si un “¡es cuarzo!”, que si una poción para dormir guardas e infiltrarse, que si un explosivo casero… Pero pronto se empepinó, y cuando empezó a sentirse solo tras la huida de Cheril (que le dio por convertirse en diosa y tal, si recordáis), decidió fabricarse una amiga con la que pasar las largas tardes de invierno jugando al parchís.
+
+Empezó a cocer la mezcla de fluidos en un bidón de cristal tamaño jumbo, para que le diera espacio. Puso todos los ingredientes, primero el sofrito de verduras, para que le saliese sanota, luego proteínas, para que fuese fuerte, mucho fósforo y un par de petitsuises, para que fuese inteligente, y terminó con un par de botes de Olay total effects, para que fuese mona. Sin embargo debió haber calculado mal alguna proporción, ya que de la mezcla no surgió una bella mujer… ¡Sino un Goku Mal! ¡Un tipejo bajito y musculoso, con los pelos de pincho y carilla de bochinche!
+
+El mosqueo del mono fue monumental (como todas las cosas relacionadas con los monos) y, sin atender a razones, agarró al engendro por los tobillos y lo lanzó a la montaña de calcetines sucios listos para incinerar (¿alguna vez habéis visto a un mono lavando calcetines? ¡Los queman!). Luego se fue farfullando improperios, terriblemente contrariado.
+
+Sin embargo, el Goku Mal, quizá por el fétido olor, tomó consciencia y despertó del letargo. Viéndose en tal situación y comprendiendo qué había pasado, comenzó a albergar un sentimiento de rencor que pronto se convirtió en una insaciable sed de venganza… ¡Cuidado, Eleuterio! ¡Que Goku Mal está mosqueado y va a por tí!
+
+ 
+
+Our good ol’ Eleuterio, the Serious Monkey, was a well known inventor. He started at a very early age with simple things such as sleeping pills or explosives, but soon grew to bigger things. Feeling lonely after Cheril left to become a Goddess, Eleuterio decided it was time to put all his knowledge to good use and build himself a beautiful female friend with whom he could spend long rainy afternoons playing cards or telling jokes.
+
+He started with the basic mixture of fluids in a big jar. Then he started adding some vegetables, so his future friend came out nice and healthy. Then he added proteins, so she was strong. He threw in some protein afterwards, so she was strong, and finally he added phosphor so the girl was smart and intelligent. But something went bad. Maybe he made a mistake with the mixture – because what came out the jar wasn’t precisely a beautiful woman… It was a Goku Bad! A brawny short man, with spiky hair and a funny face!
+
+Eleuterio was so angry that he took the creature and threw him to a mountain of ready-to-burn dirty socks (have you ever seen a monkey washing socks? They burn them all once they are dirty!) and flew, incredibly disgusted.
+
+But aye, Goku Bad soon awoke, and readily understood what had happened. He began to grow a sentiment of anger that soon became a thirst for blood and revenge. Beware, Eleuterio, Goku Bad is mad and is going after you!
+El juego / The game
+
+Ayuda a Goku Mal a encontrar a Eleuterio y darle su merecido. Atraviesa cinco fases infestadas de bichos siguiendo la pista del malvado mono, empezando por el laboratorio, pasando por las alcantarillas, cruzando el puente bombardeado, parándote a recoger unas flores en la iglesia, y atravesando finalmente la zona industrial, donde Eleuterio se oculta. Quítate de enmedio a los moscones disparándoles bolas de podewwwr e intenta no caerte en los pinchos ni tocar el moco radioactivo de las alcantarillas.
+
+Help Goku Bad finding Eleuterio to beat the crap out of him. You’ll have to traverse five stages full of hideous creatures, starting in the secret labs, getting past the sewers, going accross the broken bridge, stopping in a church to pick up some flowers, and finally descending the industrial zone to its very bottoms, where Eleuterio dwells. Dispose of all those disgusting monsters firing your balls of power and try not to fall in the spikes or touching the radioactive snot in the sewers.
+Controles / Controls
+
+Puedes usar joysticks Sinclair Interface II o Kempston, o controlar el juego usando el teclado:
+
+A : izquierda
+D:  derecha
+W: (con disparo) disparar arriba
+S: (con disparo) disparar abajo
+N: Salto
+M: Disparo
+
+Puedes combinar las direcciones con el disparo para disparar en diagonal, hacia arriba, hacia abajo o a los lados. Si seleccionas el joystick, el botón sirve para disparar y tendrás que saltar usando la tecla N en el teclado.
+
+You can use the Sinclair Interface II or Kempston joysticks, or the keyboard. The commands are as follows:
+
+A : left
+D:  right
+W: (while shooting) shoot upwards
+S: (while shooting) shoot downwards
+N: jump
+M: shoot
+
+You can shoot in all directions combining the directional keys with the fire button. If you use a joystick, the button will make Goku shoot, and you’ll have to use the key “N” to jump.
+
+ 
+Instrucciones de caraga / Loading instructions
+
+ZX Spectrum 128/+2/+2A/+2B/+3
+
+    Selecciona “Cargador” o “Loader” en el menú de inicio y pulsa ENTER. Pulsa play en el cassette y el juego se cargará automáticamente.
+
+ZX Spectrum 128/+2/+2A/+2B/+3
+
+    Select “Loader” in the start menu and press ENTER. Press PLAY on tape and the game will load automaticly.
+
+FX Disclaimer
+
+Goku Mal no es una versión de Goku Mal.
+
+Goku Mal ain’t an arcade conversion.
+FX Iglesia con flores
+
+Este juego contiene, misteriosamente, una fase en una iglesia con flores.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+http://www.mojontwins.com/licencia-mt/
+
+
+Licencia
+A continuación os indicamos a qué tenéis que ateneros al usar MK2 o cualquiera de nuestros engines (salvo MK1/La Churrera – Para la licencia de este producto consultar su página http://www.mojontwins.com/juegos_mojonos/la-churrera/) o códigos fuentes, o al utilizar gráficos, ideas, argumentos, personajes, músicas, sonidos, ilustraciones, etc… es decir: TODA NUESTRA OBRA CREATIVA. Gracias a nuestro amigo Marco Fernández por la traducción al inglés.
+
+Todo el contenido de la web, toda nuestra obra creativa, incluido el código fuente está bajo licencia Creative Commons 3.0 “by-nc-ca”, o sea, “Reconocimiento-NoComercial-CompartirIgual 3.0 Unported (CC BY-NC-SA 3.0)”
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES
+
+Esto significa que eres libre de:
+
+– Copiar, distribuir y comunicar públicamente la obra.
+– Transformar la obra.
+– Crear productos derivados de la obra.
+
+Bajo las siguientes condiciones:
+
+Reconocimiento — Debes reconocer los créditos de la obra de la manera especificada por los Mojon Twins (pero no de una manera que sugiera que tiene su apoyo o apoyan el uso que hace de su obra). En este caso, sólo te pedimos que incluyas el texto “Powered by La Churrera” o “Powered by MK2” (según aplique) o incluyas el logo que incluimos en el archivo logo.png en la pantalla de carga y la portada del güego.
+
+No comercial — No puede utilizar esta obra para fines comerciales.
+
+Compartir bajo la misma licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+
+Entendiendo que:
+
+Renuncia — Alguna de estas condiciones puede no aplicarse si se obtiene el permiso explícito de los Mojon Twins.
+
+Aviso — Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta obra.
+
+En resumen
+
+– Los güegos que hagan deben lanzarse bajo una licencia CC equivalente. Si quieres lanzar los güegos bajo otro tipo de licencia, debes hablar con nosotros y pedir permiso. Esto incluye especialmente la elaboración de copias físicas (ver más abajo).
+
+– Debes incluir “Powered by la Churrera” o “Powered by MK2” o “Powered by NOMBRE-DEL-ENGINE” según aplique, o el logo correspondiente en pantalla de carga y portada. No te cuesta ningún trabajo y nos beneficiamos todos.
+
+Sobre las copias físicas
+
+– Copias físicas privadas: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho para tu disfrute propio.
+– Copias físicas promocionales: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho y regalarlo a tus amigos corriendo tú personalmente con todos los gastos.
+– Copias físicas para vender (incluye recompensas en crowdfundings y cualquier otra actividad que implique un intercambio económico): Depende del producto pero, en cualquier caso, lo mejor es preguntar.
+License
+
+You must observe the terms below when using MK2 or any of our engines or source code (save for MK1/la Churrera; read more at http://www.mojontwins.com/juegos_mojonos/la-churrera-english/ ), or when using our graphics, ideas, storylines, characters, music, sounds, illustrations, etc., i.e. ANY OF OUR CREATIVE WORK
+
+All the content on this site, and all of our creative work, including source code, are licensed under Creative Commons 3.0 Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0.)
+
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This means you can freely:
+
+– Copy, distribute and transmit our work.
+– Transform our work.
+– Create products derived from our work.
+
+You may do so under the following terms:
+
+Attribution — You must attribute the work in the manner specified by the Mojón Twins (but not in any way that suggests that they endorse you or your use of the work.) In this case, we only ask that you include the text “Powered by La Churrera” or “Powered by MK2” (as applicable) or that you include the logo included in the file logo.png in the game’s loading screen and cover art.
+
+NonCommercial — You may not use this material for commercial purposes.
+
+Share Alike — If you alter or transform this work, or generate any work derived from it, you can only distribute your derived work under a license identical to this one.
+
+Understanding that:
+
+Disclaimer — Some of these conditions may not be applicable if you obtain explicit permission from the Mojón Twins.
+
+Notice — When reusing or distributing the work, you need to clearly specify the terms in its license.
+
+In a nutshell
+
+– The games you make must be released under an equivalent CC license. If you want to release your games under a different kind of license, you must contact us to get permission. This applies specially to the manufacturing of physical copies (see below.)
+
+– You must include “Powered by la Churrera” or “Powered by MK2” or “Powered by ENGINE-NAME” as applicable, or the corresponding logo on the loading screen and cover art. This is easy for you, and will benefit all of us.
+
+About physical copies
+
+– Private physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge for your own personal use.
+– Promotional physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge to give away to your friends paying for all expenses yourself.
+– Physical copies for sale (including crowdfunding rewards and any activity involving economic transactions): It depends on the product, but in any case, the best practice is always give us a shout and ask.
