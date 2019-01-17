@@ -1,8 +1,15 @@
 # zx-spectrum-games
-Homebrew ZX Spectrum games collection 
+Homebrew ZX Spectrum games collection:
 
  - <b>Berzerk</b> by Bootlegger
  - <b>Break/Space</b> by Blerkotron
+ - <b>Cadaverion</b> by Mojon Twins
+ - <b>Cheril of the Bosque</b> by Mojon Twins
+ - <b>Cheril Perils</b> by Mojon Twins
+ - <b>Cheril the Goddess</b> by Mojon Twins
+ - <b>Columns</b> by Mojon Twins
+ - <b>Goku Mal</b> by Mojon Twins
+ - <b>Horace Goes To The Tower</b> by Mojon Twins
  - <b>Ink Fall</b> by Bootlegger
  - <b>Lost In Worlds</b> by Nihirash
  - <b>Miner'49er</b> by Bootlegger
