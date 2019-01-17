@@ -25,6 +25,90 @@
      <players>1</players>
    </game>
    <game>
+     <path>./cadaverion.tap</path>
+     <name>Cadaverion</name>
+     <desc>Help Cheril in the sixth game in the Cheril Trilogy! You have approximately one minute to escape each of the four floors in the mansion, each floor being composed by five closed chambers. To progress from one chamber to the next, you'll have to open the gate by means of pushing around every statue on the screen to their bases. If you get it wrong you can always restart the room by pressing "fire" over the blueish tile you will find in every room with statues. This will revert the room to the original position. You must hurry, because if the time runs out you'll have to start the current floor over. Luckily, you can collect hourglasses for some more time, but be careful with the mansion inhabitants, who are everything but friendly.</desc>
+     <image>./cadaverion.png</image>
+     <rating>0</rating>
+     <releasedate>20131014T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Cadaverion</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./cherilofthebosque.tzx</path>
+     <name>Cheril of the Bosque</name>
+     <desc>Control Cheril accross the jungle looking for giant nuts. When you manage to collect thirteen of them, the game will end and you'll win. In already visited screens, a tasteful roasted chicken may appear, and it will help you to recover some life points, which you'll lose when you hit an enemy, a ball of spikes, poisonous shrooms or carnivorous plants.</desc>
+     <image>./cherilofthebosque.png</image>
+     <rating>0</rating>
+     <releasedate>20100201T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Cheril of the Bosque</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./cherilperils.tzx</path>
+     <name>Cheril Perils</name>
+     <desc>Control Cheril in the doomed city of Yellowenia, infested with zombies. Your mission is relatively easy to understand: smash 60 zombies using the method of busting them jumping on their fragile skulls. When you can see them coming, just drop on them! Jump on them! KILL'EM ALL! When you have slain all the 60 zombies, the mayor will remove the boulders which block the exit, in the very first screen of the game. So when you are done, just leave. Good luck!</desc>
+     <image>./cherilperils.png</image>
+     <rating>0</rating>
+     <releasedate>20100701T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Cheril Perils</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./cherilthegoddess.tap</path>
+     <name>Cheril the Goddess</name>
+     <desc>You control Cheril. There's plenty of things to do, and you'll need special objects. Cheril can only carry ONE object at a time, so if you try to get a new one while you are carring an object, you will drop the one you carry in the place of the one you take. To get/interchange objects press DOWN. Besides, you'll have to give those objects a use. To use an object, just walk to the place you want to use it and press DOWN. For Cheril to fly, she has to "push". You can make her "push" by pressing UP. But beware: "pushing" for too long drains Cheril's vitality, so you have to do this carefully. Timing short "pushes" can make her gain momentum. Take your time to master the technique, it won't take long. Cheril can also fire power balls. You can fire pressing FIRE. Power balls also drain Cheril, but think that enemies do quite a lot of harm. Use this feature wisely, and just when needed! Cheril can also regain her vitality by means of a special action we won't reveal 'cause it's easy enough to find out! You can choose the difficulty level, but the easiest level won't show the real ending.</desc>
+     <image>./cherilthegoddess.png</image>
+     <rating>0</rating>
+     <releasedate>20121201T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Cheril the Goddess [v.2.0]</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./columns.tzx</path>
+     <name>Columns</name>
+     <desc>There are two ways to play Columns. On the one hand there is the traditional one that is very simple, remove the maximum number of stones before the time reaches zero or that you fill the screen of stones and die crushed. The second way to play is by levels: It turns out that one day, a little princess was cloistered on top of a pyramid for a handsome Prince Charming to save her and take her in marriage (if necessary, of course). As in the beautiful traditional stories, we have to rescue the princess dam in the pyramid. To get to it we have to go advancing rooms. Each room is a level and the closer we are the more difficult it will be for us to pass because the stones that we will have to remove will be more and more, they will fall faster and the time decreasing. But not everything is bad news, every time we move from room we get 10 extra seconds and each time we remove stones in quantity greater than three, we also get extra time. The more stones of a stroke, the more points.</desc>
+     <image>./columns.png</image>
+     <rating>0</rating>
+     <releasedate>20090101T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Columns ZX</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./gokumal.tap</path>
+     <name>Goku Mal</name>
+     <desc>Help Goku Bad finding Eleuterio to beat the crap out of him. You'll have to traverse five stages full of hideous creatures, starting in the secret labs, getting past the sewers, going accross the broken bridge, stopping in a church to pick up some flowers, and finally descending the industrial zone to its very bottoms, where Eleuterio dwells. Dispose of all those disgusting monsters firing your balls of power and try not to fall in the spikes or touching the radioactive snot in the sewers.</desc>
+     <image>./gokumal.png</image>
+     <rating>0</rating>
+     <releasedate>20131101T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Goku Mal</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./horacegoestotower.tzx</path>
+     <name>Horace Goes To The Tower</name>
+     <desc>The game is simple: jump and run, find keys to fit in keyholes and open your path to unaccesible areas, and get all the master tapes (10 in total) spread accross the whole tower. In many screens, in order to be able to advance, you'll have to push special blocks (checkered and green) to move them to most adecuate places so you can jump on them and reach higher platforms you wouldn't otherwise reach. If you get trapped, thanks to the miracles of modern science, you can press R so everything gets back to its original place (you included).</desc>
+     <image>./horacegoestotower.png</image>
+     <rating>0</rating>
+     <releasedate>20110801T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Horace Goes To The Tower</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./inkfall.z80</path>
      <name>Ink Fall</name>
      <desc>Simple puzzle game. Choose an ink colour from palette on the right. Use QA, OP, 67 to move cursor, and Space or 0 to action. Ink will fill from left to right and top to bottom. Try to fill whole page in one colour. Be sure to choose a colour before the time runs out. Once colour is actioned, all adjacent same colours will fill with new colour.  When a different colour is hit, the fill will stop. You can not use the last chosen colour on your next go (last colour is highlighted and will be skipped over on cursor move). Try to complete in the lowest amount of move to gain a Lo-Score.</desc>
