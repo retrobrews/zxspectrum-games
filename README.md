@@ -11,6 +11,12 @@ Homebrew ZX Spectrum games collection:
  - <b>Goku Mal</b> by Mojon Twins
  - <b>Horace Goes To The Tower</b> by Mojon Twins
  - <b>Ink Fall</b> by Bootlegger
+ - <b>Judge Morry vs. Baldo Midget</b> by Mojon Twins
+ - <b>Lala Prologue</b> by Mojon Twins
+ - <b>Leovigildo (part 1)</b> by Mojon Twins
+ - <b>Leovigildo (part 2)</b> by Mojon Twins
+ - <b>Leovigildo (part 3)</b> by Mojon Twins
+ - <b>Leovigildo (part 4 - final)</b> by Mojon Twins
  - <b>Lost In Worlds</b> by Nihirash
  - <b>Miner'49er</b> by Bootlegger
  - <b>Minesweeper 16</b> by Blerkotron
@@ -21,6 +27,7 @@ Homebrew ZX Spectrum games collection:
  - <b>Snuffo</b> by Fadge games
  - <b>Speccy-Snake</b> by RetroJatekos
  - <b>Unhallowed</b> by Blerkotron
+
 
 
 *Note: The ROMs listed here have been approved for free distribution on this site/project only. If you want to share it, please contact owner/developer. Thanks!
