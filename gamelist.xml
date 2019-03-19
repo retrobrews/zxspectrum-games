@@ -121,6 +121,78 @@
      <players>1</players>
    </game>
    <game>
+     <path>./judgevsbaldo.tzx</path>
+     <name>Judge Morry vs. Baldo Midget</name>
+     <desc>It is a game for two players, and it is about charging the opponent before the opponent is charged to you.  Easy and simple. And then you'll complain that your neurons are dying and things like that.  That I have told you. So much wine, and then hangover ... Of course your head hurts!  Controls: Player 1: Judge Morry; Q-left; W-right; E-shot; R-jump; Player 2: Baldo Midget; U-left; I-right; O-shot; P-jump.</desc>
+     <image>./judgevsbaldo.png</image>
+     <rating>0</rating>
+     <releasedate>20071231T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Judge Morry vs. Baldo Midget</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./lalaprologue.tzx</path>
+     <name>Lala Prologue</name>
+     <desc>Take control of Lala accross the decrepit surroundings of Morgana's academy, looking for all her filters and chemicals.  To progress in your adventure you have to fetch and use some keys which will open a series of gates, giving you access to new areas. Avoid the flying nasties and spike traps around the cementary and the churches around, which can be really fatal. To regain some life, you can eat heart-shaped lollipops which will lay scattered here and there and which will appear once you've collected some filters and formulae, in screens already visited. Controls: O: Left; P: Right; Q/SPACE: Jump.</desc>
+     <image>./lalaprologue.png</image>
+     <rating>0</rating>
+     <releasedate>20100126T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Lala Prologue</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>leovigildo1.tap</path>
+     <name>Leovigildo (part 1)</name>
+     <desc>The game is divided into 4 different blocks. The first chapter has four different endings, depending on the tasks you complete before talking to the Duchess. Only one of those endings is the real one (according to the story). You can get and carry boxes pressing DOWN, and drop them elsewhere pressing DOWN again. In every chapter you can use DOWN to get, examine, talk or use an object. You can manage your inventory pressing Z to change the cursor which points to the active slot to select which object you want to use / in which slot you want to store a new object. You can use two different keyboard configurations (WSADNM, QAOPM), Joystick Sinclair or Joystick Kempston. These are the key bindings, first for the WSADNM configuration, the the OPQAM configuration, then the Joystics. Controls: A, O, Left: go left; D, P, Right: go right.; S, A, Down: use object, examine, talk, get box, drop box.; N, Q, Up: jump.; M, Fire: Throw box (chapter 2); Z: select slot in the inventory; H: Pause; Y: Exit to title.</desc>
+     <image>./leovigildo1.png</image>
+     <rating>0</rating>
+     <releasedate>20141103T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Leovigildo (part 1)</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>leovigildo2.tap</path>
+     <name>Leovigildo (part 2)</name>
+     <desc>The game is divided into 4 different blocks. On the second chapter, you have to kill all the enemies on the screen before you progress to the next. If you run out of boxes, you can restart the level stepping on the special tile and pressing down - but you'll lose a life. You can get and carry boxes pressing DOWN, and drop them elsewhere pressing DOWN again. In the second chapter, besides, you can throw such boxes to kill enemies, pressing FIRE. In every chapter you can use DOWN to get, examine, talk or use an object. You can manage your inventory pressing Z to change the cursor which points to the active slot to select which object you want to use / in which slot you want to store a new object. You can use two different keyboard configurations (WSADNM, QAOPM), Joystick Sinclair or Joystick Kempston. These are the key bindings, first for the WSADNM configuration, the the OPQAM configuration, then the Joystics. Controls: A, O, Left: go left; D, P, Right: go right.; S, A, Down: use object, examine, talk, get box, drop box.; N, Q, Up: jump.; M, Fire: Throw box (chapter 2); Z: select slot in the inventory; H: Pause; Y: Exit to title.</desc>
+     <image>./leovigildo2.png</image>
+     <rating>0</rating>
+     <releasedate>20141103T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Leovigildo (part 2)</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>leovigildo3.tap</path>
+     <name>Leovigildo (part 3)</name>
+     <desc>The game is divided into 4 different blocks. On the third chapter, you control the duchess, who can jump over trampoline boxes to reach higher. You can also transport such boxes, but they are so heavy that they will deplete your energy. You can get and carry boxes pressing DOWN, and drop them elsewhere pressing DOWN again. In the third chapter, you can jump over boxes which have became trampolines of sorts which you can also carry around, but they are so heavy that will deplete your energy. In every chapter you can use DOWN to get, examine, talk or use an object. You can manage your inventory pressing Z to change the cursor which points to the active slot to select which object you want to use / in which slot you want to store a new object. You can use two different keyboard configurations (WSADNM, QAOPM), Joystick Sinclair or Joystick Kempston. These are the key bindings, first for the WSADNM configuration, the the OPQAM configuration, then the Joystics. Controls: A, O, Left: go left; D, P, Right: go right.; S, A, Down: use object, examine, talk, get box, drop box.; N, Q, Up: jump.; M, Fire: Throw box (chapter 2); Z: select slot in the inventory; H: Pause; Y: Exit to title.</desc>
+     <image>./leovigildo3.png</image>
+     <rating>0</rating>
+     <releasedate>20141103T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Leovigildo (part 3)</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>leovigildo4.tap</path>
+     <name>Leovigildo (part 4 - final)</name>
+     <desc>The game is divided into 4 different blocks. The fourth block contains the ending sequence. You can watch it once you get a password for completing the third chapter. You can play each chapter freely, but you need to complete the third to access the ending sequence. You can get and carry boxes pressing DOWN, and drop them elsewhere pressing DOWN again. In every chapter you can use DOWN to get, examine, talk or use an object. You can manage your inventory pressing Z to change the cursor which points to the active slot to select which object you want to use / in which slot you want to store a new object. You can use two different keyboard configurations (WSADNM, QAOPM), Joystick Sinclair or Joystick Kempston. These are the key bindings, first for the WSADNM configuration, the the OPQAM configuration, then the Joystics. Controls: A, O, Left: go left; D, P, Right: go right.; S, A, Down: use object, examine, talk, get box, drop box.; N, Q, Up: jump.; M, Fire: Throw box (chapter 2); Z: select slot in the inventory; H: Pause; Y: Exit to title.</desc>
+     <image>./leovigildo4.png</image>
+     <rating>0</rating>
+     <releasedate>20141103T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Leovigildo (part 4 - final)</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./lostinworlds.tap</path>
      <name>Lost In Worlds</name>
      <desc>Little platformer made with Platform Game Designer. Explore strange worlds and back home! Controls: O,P - Direction; SPACE - Jump.</desc>
