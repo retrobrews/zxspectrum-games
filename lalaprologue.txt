@@ -1,0 +1,179 @@
+Lala Prologue (Mojon-Twins--Lala-Prologue.tzx)
+by Mojon Twins
+2010
+
+http://www.mojontwins.com/juegos_mojonos/lala-prologue/
+
+_____________________________________________________________________________________________________________
+
+
+Lala Prologue
+
+Juego / Game: The Mojon Twins
+
+Powered by La Churrera by The Mojon Twins and splib2 by Alvin Albrech.
+Uses aPPack decompressor by dwedit, adapted by Utopian & optimized by Metalbrain
+Historia / Story
+
+Lala quería ser una bruja por todos los medios, así que se apuntó a la Gran Academia Brujil de la Señorita Morgana 
+la Marrana, que la admitió porque estaba de vacas flacas y ya no tenía alumnas desde hacía décadas. La propia Morgana 
+la Marrana se encargaba de darle las clases a Lala, que no daba pie con bola. Un día, Morgana se quedó sin bilis de 
+mellado, así que se fue al súper a comprar un bote nuevo, y Lala se quedó sola en la academia con todos esos cachivaches 
+y potingues a su disposición. Se puso a probar hechizos al azar, y como no pasaba nada abrió la ventana para que se 
+ventilase un poco el estudio. Cuando se quiso dar cuenta, los botes de fórmulas y filtros mágicos volaron por la 
+ventana perdiéndose por todos los alrededores…
+
+Lala wanted to be a witch by all means, so she entered the Great Witch Academy, led by Mistress Morgana la Marrana, 
+who admited her ‘cause she didn’t have any pupils because of the worldwide crisis. Morgana herself teached the very 
+first basics of magic and sorcery to Lala, who was not a very good student. One day, Morgana ran out of chipped man 
+bile, so she went to the supermarket to buy some and Lala had to stay on her own in the academy with all those machines 
+and magic filters to her disposal. She began trying some spells, and as nothing happened, she just opened the windows 
+so to freshen the air. But before she could be aware, all the pots with magical filters and chemicals flew off  thru’ 
+the window scattering all around the surroundings.
+
+
+El Juego / The Game
+
+Controla a Lala a través de los lúgubres parajes que rodean la casa de Morgana buscando todos sus filtros y fórmulas. 
+Para progresar en tu aventura tendrás que ir encontrando una serie de llaves que podrás usar en sus correspondientes 
+cancelasque te impiden el avance. Una vez que hayas reunido 25 filtros acabará tu misión.
+
+Evita tocar a los bicharracos que pululan por el cementerio y las iglesias en ruinas y las trampas de pinchos que 
+pueden resultar mortales. Para recuperar algo de aliento, puedes comerte una de las piruletas con forma de corazón 
+que aparecerán repartidas por el escenario una vez que hayas cogido algun filtro, en las pantallas ya visitadas.
+
+Take control of Lala accross the decrepit surroundings of Morgana‘s academy, looking for all her filters and chemicals. 
+To progress in your adventure you have to fetch and use some keys which will open a series of gates, giving you access 
+to new areas.
+
+Avoid the flying nasties and spike traps around the cementary and the churches around, which can be really fatal. 
+To regain some life, you can eat heart-shaped lollipops which will lay scattered here and there and which will appear 
+once you’ve collected some filters and formulae, in screens already visited.
+
+
+Controles / Controls
+
+O: Izquierda / Left
+P: Derecha / Right
+Q/SPACE: Salto / Jump
+Instrucciones de carga / Loading instructions
+
+En modelos de 48K, escribe LOAD “” y pulsa ENTER y PLAY en el casette. El juego cargará automáticamente 
+(si no falla, por supuesto, en cuyo caso puedes repetir pacientemente el proceso).
+
+En modelos de 128K, pon el ordenador en modo 48 BASIC y pulsa Enter. Luego sigue las instrucciones de los modelos de 48K.
+
+For 48K models just type in LOAD “” and press ENTER, then PLAY on tape. The game will load automaticly 
+(unless it fails miserably, in which case you’ll have to start over again).
+
+For 128K moderls, switch to 48 BASIC, and then follow the instructions for the 48K models.
+
+
+FX Novedad / FX Novelty
+
+Este juego es el primer juego pensado, diseñado, programado y lanzado íntegramente en 2010. Sí, colega, los Mojon Twins 
+siempre son los primeros ??
+This game is the very first game completely thought of, designed, coded and released in 2010. Yes, buddy, the Mojon Twins 
+are always the first ??
+_____________________________________________________________________________________________________________
+
+Licencia
+A continuación os indicamos a qué tenéis que ateneros al usar MK2 o cualquiera de nuestros engines 
+(salvo MK1/La Churrera – Para la licencia de este producto consultar su página http://www.mojontwins.com/juegos_mojonos/la-churrera/) 
+o códigos fuentes, o al utilizar gráficos, ideas, argumentos, personajes, músicas, sonidos, ilustraciones, etc… es decir: 
+TODA NUESTRA OBRA CREATIVA. Gracias a nuestro amigo Marco Fernández por la traducción al inglés.
+
+Todo el contenido de la web, toda nuestra obra creativa, incluido el código fuente está bajo licencia Creative Commons 3.0 “by-nc-ca”, 
+o sea, “Reconocimiento-NoComercial-CompartirIgual 3.0 Unported (CC BY-NC-SA 3.0)”
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES
+
+Esto significa que eres libre de:
+
+– Copiar, distribuir y comunicar públicamente la obra.
+– Transformar la obra.
+– Crear productos derivados de la obra.
+
+Bajo las siguientes condiciones:
+
+Reconocimiento — Debes reconocer los créditos de la obra de la manera especificada por los Mojon Twins (pero no de una manera que 
+sugiera que tiene su apoyo o apoyan el uso que hace de su obra). En este caso, sólo te pedimos que incluyas el texto “Powered by La Churrera” 
+o “Powered by MK2” (según aplique) o incluyas el logo que incluimos en el archivo logo.png en la pantalla de carga y la portada del güego.
+
+No comercial — No puede utilizar esta obra para fines comerciales.
+
+Compartir bajo la misma licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada 
+bajo una licencia idéntica a ésta.
+
+Entendiendo que:
+
+Renuncia — Alguna de estas condiciones puede no aplicarse si se obtiene el permiso explícito de los Mojon Twins.
+
+Aviso — Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta obra.
+
+En resumen
+
+– Los güegos que hagan deben lanzarse bajo una licencia CC equivalente. Si quieres lanzar los güegos bajo otro tipo de licencia, debes 
+hablar con nosotros y pedir permiso. Esto incluye especialmente la elaboración de copias físicas (ver más abajo).
+
+– Debes incluir “Powered by la Churrera” o “Powered by MK2” o “Powered by NOMBRE-DEL-ENGINE” según aplique, o el logo correspondiente en 
+pantalla de carga y portada. No te cuesta ningún trabajo y nos beneficiamos todos.
+
+Sobre las copias físicas
+
+– Copias físicas privadas: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho para tu disfrute propio.
+– Copias físicas promocionales: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho y regalarlo a tus amigos corriendo tú 
+personalmente con todos los gastos.
+– Copias físicas para vender (incluye recompensas en crowdfundings y cualquier otra actividad que implique un intercambio económico): 
+Depende del producto pero, en cualquier caso, lo mejor es preguntar.
+License
+
+You must observe the terms below when using MK2 or any of our engines or source code (save for MK1/la Churrera; read more at 
+http://www.mojontwins.com/juegos_mojonos/la-churrera-english/ ), or when using our graphics, ideas, storylines, characters, music, sounds, 
+illustrations, etc., i.e. ANY OF OUR CREATIVE WORK
+
+All the content on this site, and all of our creative work, including source code, are licensed under 
+Creative Commons 3.0 Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0.)
+
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This means you can freely:
+
+– Copy, distribute and transmit our work.
+– Transform our work.
+– Create products derived from our work.
+
+You may do so under the following terms:
+
+Attribution — You must attribute the work in the manner specified by the Mojón Twins (but not in any way that suggests that they endorse 
+you or your use of the work.) In this case, we only ask that you include the text “Powered by La Churrera” or “Powered by MK2” 
+(as applicable) or that you include the logo included in the file logo.png in the game’s loading screen and cover art.
+
+NonCommercial — You may not use this material for commercial purposes.
+
+Share Alike — If you alter or transform this work, or generate any work derived from it, you can only distribute your derived work under 
+a license identical to this one.
+
+Understanding that:
+
+Disclaimer — Some of these conditions may not be applicable if you obtain explicit permission from the Mojón Twins.
+
+Notice — When reusing or distributing the work, you need to clearly specify the terms in its license.
+
+In a nutshell
+
+– The games you make must be released under an equivalent CC license. If you want to release your games under a different kind of license, 
+you must contact us to get permission. This applies specially to the manufacturing of physical copies (see below.)
+
+– You must include “Powered by la Churrera” or “Powered by MK2” or “Powered by ENGINE-NAME” as applicable, or the corresponding logo on the 
+loading screen and cover art. This is easy for you, and will benefit all of us.
+
+About physical copies
+
+– Private physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge for your own personal use.
+– Promotional physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge to give away to your friends paying for 
+all expenses yourself.
+– Physical copies for sale (including crowdfunding rewards and any activity involving economic transactions): It depends on the product, 
+but in any case, the best practice is always give us a shout and ask.
