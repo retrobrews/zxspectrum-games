@@ -1,0 +1,50 @@
+VALLATION
+-=-=-=-=-
+
+OVERVIEW:
+
+VALLATION is a stunning conversion of a C64 game originally produced by Jason Kelk (TMR / Cosine) and now presented on the ZX Spectrum by Tardis Remakes.  Featuring superb detailed graphics, quality soundtracks and lots of shoot 'em up action!  The Psytronik release is presented with incredible artwork by renowned industry artist Oliver Frey and features a specially enhanced 128K version with new AY soundtrack, a complete extra level with 49 new screens to blast your way through.  Can you escape the pirate planet?
+
+
+LOADING:
+
+128K users press ENTER.
+
+48K users type LOAD "" (press ENTER).
+
+NOTE: Side 1 of the tape contains the 48K version of the game and side 2 contains the enhanced 128K version with extra levels and AY music.
+
+
+GAMEPLAY:
+
+Your mission is to escape the pirate planet. Move through 101 screens (150 on 128K version) spread over 4 levels (5 levels on 128K version) and see if you can find the way out. Mind the missiles – they can’t be destroyed ... and be very careful around the enemies that will shoot at you the moment they see you. You’ll have your hands full.
+
+
+CONTROLS:
+
+QAOP and SPACE to control the game.
+
+Quit game using SHIFT+SPACE.
+
+All keys except QUIT can be redefined.
+
+Kempston joystick controls available on 128K version ONLY.
+
+
+CREDITS:
+
+Idea and design of original game: Jason Kelk – aka. TMR / Cosine.
+
+The Spectrum version coded by Søren Borgquist – aka. Sokurah.
+
+Spectrum graphics & inlay logo by Craig Stevenson – aka. Redballoon.
+
+Additional graphics by Simon Butler.
+
+48K Spectrum music by Johan Elebrink – aka. Brink.
+
+128K Spectrum music by Spacefractal.
+
+Inlay art by Oliver Frey.
+
+Published in 2017 by www.psytronik.net

@@ -1,0 +1,51 @@
+SPACE JUNK
+
+A strange signal has crossed the Solar System, damaging the mining bases that the human being has dispersed through space. All the robots and auxiliary machines have gone crazy and any object that approaches them will be considered as objective to eliminate.
+
+Your mission will be to destroy the six generators that power these machines at each base avoiding that they can overheat, explode and produce a chain reaction that could eliminate the Earth. Once finished your mission you will be able to return home.
+
+The enemies are indestructible, some of them may be paralyzed for a short period of time.
+
+Good luck!
+
+Controls:
+Keyboard:
+O - Left   /   P - Right   /   Q - Up   /   A - Down   Space - Shoot
+Kempston Joystick & Sinclair Joystick
+
+For ZX SPECTRUM 48k and 128k. Load “”
+
+Crédits:
+Design & 48k music: Miguetelo. Miguel Ángel Tejedor López
+
+Developed between february & april 2017
+Using Jonathan Cauldwell's AGD.
+
+https://miguetelo.itch.io/spacejunk
+///////////////////////////////
+
+
+SPACE JUNK (Chatarra espacial)
+
+Una extraña señal ha atravesado el sistema solar averiando las bases mineras que el ser humano tiene dispersas por el espacio. Todos los robots y maquinas auxiliares se han vuelto locas y cualquier objeto que se acerque a ellas será considerado como objetivo a eliminar.
+
+Tu misión será destruir los seis generadores que dan energía a estas máquinas en cada base evitando que puedan sobrecalentarse, explotar y producir una reacción en cadena que podría llegar a eliminar la tierra. Una vez terminada tu misión podrás regresar a casa.
+
+Los enemigos son indestructibles, algunos de ellos podrán ser paralizados durante un corto periodo de tiempo.
+
+¡Buena suerte!
+
+Controles:
+Teclado: O - Izquierda   /   P - Derecha   /   
+Q - Arriba   /   A - Abajo   /   Espaciador - Disparo
+Joystick Kempston y Joystick Sinclair
+
+Para ZX SPECTRUM 48k y 128k. Load “”
+
+Créditos:
+Diseño, realización y música de Miguetelo. Miguel Ángel Tejedor López
+
+Realizado durante febrero y marzo de 2017
+Realizado con AGD de Jonathan Cauldwell
+
+https://miguetelo.itch.io/spacejunk

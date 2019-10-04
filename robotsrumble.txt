@@ -1,0 +1,57 @@
+ROBOTS RUMBLE (128K with music / 48k with sound) 
+
+You are Slade, 45 years old, and yes, you love your job: to destroy broken robots on distant planets and throw them into the burning lava.
+You will be sent to different planets guiding the broken robots through different scenarios, your mission, throw them into the lava with the exclusive help of two old big magnets. 
+You must avoid the green stones of kryptonite (the robot will explode causing pollution of the entire planet). You must avoid the sentinels of the plant as well.
+The magnets have a limited battery charge. They can be charged by picking up the batteries on the map. If you run out of energy, you die. If both magnets are aligned with the robot, it will stop moving.
+You can use mobile platforms to fill gaps, break glass floors, climb through light lifts, use teleportation, etc.
+Good luck! You will need it.
+
+Controls:
+Q - Left magnet UP
+P - Left magnet DOWN
+P - Right magnet UP
+L - Right magnet DOWN
+
+Credits:
+Miguel Ángel Tejedor (aka Miguetelo)
+(c) 2018. Made with AGD.
+
+Thanks:
+To David Saphier for AGDmusicizerII, Jonathan Cauldwell, creator of AGD and Allan Turvey, creator of AGDX.
+
+System:
+ZX Spectrum 48K (with sound).
+ZX Spectrum 128K (with Music).
+
+https://miguetelo.itch.io/robots-rumble
+///////////////////////////////////
+
+ROBOTS RUMBLE (128K con musica / 48k con sonido) 
+
+
+Eres Slade, de 45 años, y sí, te encanta tu trabajo: destruir robots rotos en planetas distantes y arrojarlos a la lava ardiente.
+Serás enviado a diferentes planetas guiando a los robots rotos a través de diferentes escenarios, tu misión, lanzarlos a la lava con la única ayuda de dos viejos y grandes imanes de la tierra.
+Debes evitar las piedras verdes de kryptonita (estallará el robot causando la contaminación de todo el planeta). Debes evitar los centinelas de la planta también.
+Los imanes tienen una carga de energía limitada. Se pueden cargar recogiendo las baterías que encontrarás en el mapa. Si te quedas sin energía mueres. Si ambos imanes están alineados con el robot, dejará de moverse.
+Puedes usar plataformas móviles para llenar los huecos, romper suelos de vidrio, subir a través de elevadores de luz, usar teletransporte, etc.
+¡Buena suerte! La necesitaras.
+
+Controles:
+Q - Imán Izquierdo ARRIBA
+P - Imán Izquierdo ABAJO
+P - Imán Derecha ARRIBA
+L - Imán Derecha ABAJO
+
+Créditos:
+Miguel Ángel Tejedor (aka. Miguetelo)
+(c) 2018. Realizado con AGD.
+
+Agradecimientos:
+A David Saphier por AGDmusicizerII, a Jonathan Cauldwell por crear AGD y a Allan Turvey por crear AGDx.
+
+Sistema:
+ZX Spectrum 48K (con sonido).
+ZX Spectrum 128K (con Música).
+
+https://miguetelo.itch.io/robots-rumble

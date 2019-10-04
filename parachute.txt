@@ -1,0 +1,58 @@
+PARACHUTE
+
+Free conversion based on the Atari classic "Parachute".
+Our mission is to reach the base avoiding all the dangers that lie in wait for us: helicopters, birds, antiaircraft batteries, explosive balloons, guardians, traps, etc.
+You will be thrown in different scenarios and with the sole help of your parachute you will have to arrive safely at the end of your mission.
+You have Fuel, which helps you descend faster, but be careful, the fuel runs out, you must manage it wisely. In some places you can refuel.
+Luck! You will need it.
+
+Controls:
+O - Left
+P - Right
+Q - Ascend
+A - Descend
+
+Credits:
+Miguel Ángel Tejedor (aka Miguetelo)
+Realized during December of 2017 and January of 2018 for the ZXDEV2017.
+Made with AGD.
+
+Thanks:
+To David Saphier for AGDmusicizerII.
+To Jonathan Cauldwell.
+
+System:
+ZX Spectrum 48K (with sound).
+ZX Spectrum 128K (with Music).
+
+https://miguetelo.itch.io/parachute
+///////////////////////////////////
+
+PARACHUTE
+
+Conversión libre basada en el clásico de Atari "Parachute".
+Nuestra misión es llegar a la base sorteando todos los peligros que nos acechan: helicópteros, pájaros, baterías antiaéreas, globos explosivos, guardianes, trampas, etc.
+Serás lanzado en diversos escenarios y con la sola ayuda de tu paracaídas deberás llegar sano y salvo al fin de tu misión.
+Dispones de Fuel, que te ayudará a descender de manera más rápida, pero cuidado, el fuel se agota, debes gestionarlo con sabiduría. En algunos lugares podrás recargar combustible.
+Suerte! La necesitarás.
+
+Controles:
+O - Izquierda
+P - Derecha
+Q - Ascender
+A - Descender
+
+Créditos:
+Miguel Ángel Tejedor (aka. Miguetelo)
+Realizado durante diciembre de 2017 y enero de 2018 para la ZXDEV2017.
+Realizado con AGD.
+
+Agradecimientos:
+A David Saphier por AGDmusicizerII.
+A Jonathan Cauldwell.
+
+Sistema:
+ZX Spectrum 48K (con sonido).
+ZX Spectrum 128K (con Música).
+
+https://miguetelo.itch.io/parachute
