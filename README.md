@@ -21,13 +21,16 @@ Homebrew ZX Spectrum games collection:
  - <b>Miner'49er</b> by Bootlegger
  - <b>Minesweeper 16</b> by Blerkotron
  - <b>Minesweeper 48</b> by Blerkotron
+ - <b>Parachute</b> by Miguetelo
  - <b>Physiced</b> by Uglifruit
  - <b>Pilot Attack</b> by Misfit
+ - <b>Robots Rumble</b> by Miguetelo
  - <b>Snaked</b> by Uglifruit
  - <b>Snuffo</b> by Fadge games
+ - <b>Space Junk</b> by Miguetelo
  - <b>Speccy-Snake</b> by RetroJatekos
  - <b>Unhallowed</b> by Blerkotron
-
+ - <b>Vallation</b> by Psytronik Software
 
 
 *Note: The ROMs listed here have been approved for free distribution on this site/project only. If you want to share it, please contact owner/developer. Thanks!
