@@ -85,6 +85,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./elhobbit.tzx</path>
+     <name>El Hobbit (Vah-ka's Cut)</name>
+     <desc>Bilbo is a Hobbit, which is somehow like that small and skinny guy you remember from school which could run very fast. One nice day he was relaxing at home and got a call from Gandalf, an odd old chap who worked as a magician (in the good ol' Merlin fashion) and as the gay professor in Harry Potter. The old man tells you about a big treasure hidden in a cave and guarded by Smaug, the terrible pink dragon - the problem being that he doesn't really know how to open the cave to get it. That's something which only the thirteen dwarves (dirty short people with long beards) know how to do; they usually wander around the forest. Besides, inside the cave there's a bald grumpy man called Gollum who has hidden a ring somewhere. That ring is rather special, cause if you put it on you become invisible (thus unkillable by enemies) but feel a bit dizzy. In The Hobbit (Vahka's cut) your mission is to help Bilbo find Smaug's treasure without dying in the attempt. To do so, you will have to perform some tasks (hints already given). To move around you use your OPQA keys or the joystick. To talk to people / examine stuff / pick up stuff, etcetera, just press SPACE of FIRE in the joystick. When you get the ring (hint, hint!) you can put it on by pressing SPACE / FIRE as well. Beware, the effects are short and you will get a bit dizzy. You will need this cause Gollums dwells in very thin corridors and you won't be able to get past him without being invisible.</desc>
+     <image>./elhobbit.png</image>
+     <rating>0</rating>
+     <releasedate>20130103T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>El Hobbit (Vah-ka's Cut)</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./gokumal.tap</path>
      <name>Goku Mal</name>
      <desc>Help Goku Bad finding Eleuterio to beat the crap out of him. You'll have to traverse five stages full of hideous creatures, starting in the secret labs, getting past the sewers, going accross the broken bridge, stopping in a church to pick up some flowers, and finally descending the industrial zone to its very bottoms, where Eleuterio dwells. Dispose of all those disgusting monsters firing your balls of power and try not to fall in the spikes or touching the radioactive snot in the sewers.</desc>
@@ -202,6 +214,42 @@
      <developer>Nihirash</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Lost In Worlds</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./marianothedragon.tzx</path>
+     <name>Mariano the Dragon: Capers in Cityland</name>
+     <desc>A difficult mission is waiting for Mariano, the Pink Dragon. All his friends have been kept in prison by the evil "Tetrarca Pachin Poi Poi", on the planet called Cityland, for not having carried out the tasks assigned to them, and the only way for Mariano to get the keys from the cells is to perform these tasks.</desc>
+     <image>./marianothedragon.png</image>
+     <rating>0</rating>
+     <releasedate>20080513T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Mariano the Dragon: Capers in Cityland</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./maritrinimonsterslayerp.tzx</path>
+     <name>Maritrini Freelance Monster Slayer - Prequel</name>
+     <desc>This game is a prequel to "Maritrini, Freelance Monster Slayer". Maritrini McAndrews, the famous actress with a starring role in "Maritrini, Monster Slayer", has a really flamboyant life, full of meetings and parties. One morning, she woke up to an amazing hangover, with her one night stand lying to her side, in her huge mansion located at the outskirts of the city. A bad "absentas night", some would say. She really has to hurry to get in time to an audition for "Vigorous Monsters with Shiny, Manly Chests", which she intended to be her next big success in the movies. The only solution is jumping to her car and drive away to the studios, but FIRST she must complete some... "basic morning tasks". Besides, there's a mad pig wandering around the house (George Clooney missed her pet in one of the latest huge parties!) which is a real bummer. And, besides, Maritrini and her one night stand passed out while watching "The Goonies" late at night in cable TV, and the mixture of absenta, cathodic rays, and sleep privation made the Fratelli Family corporeus... and really angry. Those are really bad guys! Can you help Maritrini to complete her "basic morning tasks"?</desc>
+     <image>./maritrinimonsterslayerp.png</image>
+     <rating>0</rating>
+     <releasedate>20121004T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Maritrini Freelance Monster Slayer - Prequel</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./maritrinimonsterslayer.tzx</path>
+     <name>Maritrini Freelance Monster Slayer</name>
+     <desc>This is one of those games which simple and straight-forward mechanics: kill everything in sight, don't get lost, look for stamina-recharging bottles to fill-up and keys to open doors, destroy the enemy spawners (otherwise they will keep on respawning forever), look for the exit to the next level, write down the password in a book for writing down passwords, score tons of points, jump in the jumpin' jacks' trampoline, and stop reading magazines with naked women. Controls: O - left; P - right; Q - up, A - down, SPACE - shoot</desc>
+     <image>./maritrinimonsterslayer.png</image>
+     <rating>0</rating>
+     <releasedate>20110817T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Maritrini Freelance Monster Slayer</genre>
      <players>1</players>
    </game>
    <game>
