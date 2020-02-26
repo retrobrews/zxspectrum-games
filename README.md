@@ -8,6 +8,7 @@ Homebrew ZX Spectrum games collection:
  - <b>Cheril Perils</b> by Mojon Twins
  - <b>Cheril the Goddess</b> by Mojon Twins
  - <b>Columns</b> by Mojon Twins
+ - <b>El Hobbit (Vah-ka's Cut)</b> by Mojon Twins
  - <b>Goku Mal</b> by Mojon Twins
  - <b>Horace Goes To The Tower</b> by Mojon Twins
  - <b>Ink Fall</b> by Bootlegger
@@ -18,6 +19,9 @@ Homebrew ZX Spectrum games collection:
  - <b>Leovigildo (part 3)</b> by Mojon Twins
  - <b>Leovigildo (part 4 - final)</b> by Mojon Twins
  - <b>Lost In Worlds</b> by Nihirash
+ - <b>Mariano the Dragon: Capers in Cityland</b> by Mojon Twins
+ - <b>Maritrini Freelance Monster Slayer - Prequel</b> by Mojon Twins
+ - <b>Maritrini Freelance Monster Slayer</b> by Mojon Twins
  - <b>Miner'49er</b> by Bootlegger
  - <b>Minesweeper 16</b> by Blerkotron
  - <b>Minesweeper 48</b> by Blerkotron
