@@ -1,0 +1,72 @@
+Maritrini Freelance Monster Slayer
+by The Mojon Twins
+2011/08/17
+
+
+Juego / Game: The Mojon Twins
+Historia  y Concepto / Story and Concept: na_th_an & anjuel & «well-written» by maribip
+Código / Code: na_th_an
+Gráficos / Graphics: na_th_an & anjuel
+Mapas / Maps: na_th_an & anjuel & maribip
+Música / Music: Augusto Ruiz
+
+Powered by PSG Player by WYZ and splib2 by Alvin Albrech.
+Uses aPPack decompressor by dwedit, adapted by Utopian & optimized by Metalbrain
+
+Testeo / Test: Gerb Ashior, zemman, Eleuterio el Mono Serio & Metr
+Dedicado a / Dedicated to: @luisjvr, @TokuDeka (grande!), Manolico el Mono Chico, Buffy’s Boobs & a un perro: m
+Historia / Story
+
+Tras conocer las dulces mieles del éxito, Maritrini se despertó un día en medio de un revoltijo de sábanas y con la mayor resaca que recordase en sus treinta y cinco años de vida. Aturdida por los restos de alcohol en vena y el persistente olor a tabaco que impregnaba toda la casa, se derrumbó sobre la silla de la cocina frente a una mohosa taza de café.
+
+Todavía conservaba junto a algunos libros dedicados las fotos del rodaje de “Maritrini, cazabichos”, su más afamada serie y por la que las cajeras del supermercado y el chico de las bolsas aun le reconocían y sonreían. Sin embargo, desde que su director de serie, Paul Duran, fue ingresado durante ocho semanas en el Central Hospital con la cara vendada a causa de un esguince de ceja, según rezaba el parte médico oficial, todo cambió para Maritrini. Tras esas ocho semanas, un señor que decía ser el antiguo director de la serie pero que no se parecía ni en los pelos de las orejas, despidió a Maritrini sin los quince días de preaviso.
+
+La joven emprendedora, lejos de desanimarse, se apuntó a un cursillo del INEM sobre cómo gestionar tu propia empresa, se inscribió en autónomos y puso un cartelito en su buzón: “Martitrini. Si tienes un vampiro al acecho toca el timbre que lo escabecho ”. El lema fue idea de su amigo Dani Alamenasbarriel, genio del marketing y la publicidad con cuya ayuda tan sólo había conseguido desarmar a un grupo de quince vampiros quienes finalmente resultaron ser un grupo de niños disfrazados de Hallowen. Lástima no haber mirado el calendario a tiempo.
+
+Pero aquella mañana sonó el teléfono. Rebuscó entre un montón de papeles, cojines y platos de plástico con ganchitos naranjas y por fin encontró el aparato. Al otro lado la misteriosa nueva voz de viejo jefe, entrecortada y alterada. Su hija, su única hija había sido secuestrada por una organización maléfica que desde hace tiempo experimentaban para modificar genéticamente a humanos y convertirlos en monstruos y vampiros. ¿Una organización? Maritrini nunca había oído hablar de algo así, sin embargo, cuando trató de sonsacar más información al su exdirector la comunicación se cortó. ¿Qué estaba pasando? ¿alguien estaba intentando llenar la ciudad de chupasangres, zombies, seres amorfos…?. No recordaba que nunca le hubiese hablado de ninguna hija. Desde luego, la única que sabe cómo acabar con ellos es Maritrini y Paul lo tiene claro.
+
+¿Te atreves a adentrarte con Maritrini en los lugares más insospechados de la ciudad para encontrar a la hija de Paul Duran? Sal al bosque que rodea su casa, ve al instituto donde siempre ocurre algo, investiga en los viejos laboratorios de la fábrica abandonada y si es necesario desciende a la mina más profunda. Y sobre todo, vigila tu espalda y no confíes en nadie…
+
+After experiencing the sweet taste of success, Maritrini woke up one fine day in a mess of bed sheets and with the biggest hangover she could remember from her thirty five years of age. Dazed by the remains of alcohol in her system and the persistent smell of cigarettes which polluted the whole house, she collapsed over a chair in the kitchen in front of a rusty coffee mug.
+
+She still kept some signed books and the pictures taken during the filming of «Maritrini, Monster Slayer«, her most famous TV series, from which she still had recognition by the cashiers in the supermarket. However, since the series director Paul Duran was admitted to the Central Hospital with a bandaged face due to a sprained eyebrow (that’s what the medical report assured, at least) for eight weeks, everything changed for Maritrini. After such time, somebody who claimed to be the series director, but who didn’t look like Paul at all, fired Maritrini instantly.
+
+The young enterpreneur, far from feeling discouraged, started a refresher course about «how to manage your own business», became self-employed and added a small sign in her mailbox: «Maritrini: if you have a vampire after you I will turn it into poo«. The catchphrase was her friend Dani Alamenasbarriel‘s original idea. Dani was a genius in marketing and avertising.
+
+That very morning the telephone rang. She looked for it amoung a bunch of paper sheets, pillows and plastic dishes covered with orange snacks until she finally found it. She answered and recognized the mysterious voice of her (new?) former boss at the other side of the line. He was somewhat alarmed and frightened. His daughter, his ONLY daughter, had been kidnapped by an evil organization which experimented to genetically modify human beings and turn them into monsters. An evil organization? Maritrini had never heared talking about something like that. When she tried to learn more about the whole matter from her former boss, the communication was cut. What was happenning? Somebody was trying to fill the city with blood scukers, zombies, amorphous beings? She didn’t recall Duran talking about a daughter… ever! Anyways, the only one able to solve this mystery is Maritrini herself, and Paul Duran is positive about that.
+
+Will you accompany Maritrini in her search? Enter the bushes around Duran‘s mansion, visit the high school, take a look in a set of mines which lead to a mysterious underground lab… And, most importantly: watch your back and trust nobody!
+El Juego / The Game
+
+Este es uno de esos juegos que tienen un funcionamiento simple y sencillo: mata todo lo que te encuentres por el camino, no te pierdas, busca botellas que recarguen energía y llaves que te abrirán puertas, destruye los generadores de bichos, encuentra la puerta de salida al siguiente nivel, apúntate el password en una libreta de apuntar passwords, haz muchos puntos, sarta en la corchoneta de sartar y deja de leer revistas con mujeres encueras.
+
+This is one of those games which simple and straight-forward mechanics: kill everything in sight, don’t get lost, look for stamina-recharging bottles to fill-up and keys to open doors, destroy the enemy spawners (otherwise they will keep on respawning forever), look for the exit to the next level, write down the password in a book for writing down passwords, score tons of points, jump in the jumpin’ jacks’ trampoline, and stop reading magazines with naked women.
+Controles / Controls
+
+O: Izquierda / Left
+P: Derecha / Right
+Q: Arriba / Up
+A: Abajo / Down
+SPACE: Disparo / Shoot
+Instrucciones de carga / Loading instructions
+
+ZX Spectrum 128/+2/+2A/+2B/+3
+
+    Para cargar la versión de 128K, selecciona “Cargador” o “Loader” en el menú de inicio y pulsa ENTER. Pulsa play en el cassette y el juego se cargará automáticamente.
+
+ZX Spectrum 128/+2/+2A/+2B/+3
+
+    To load the 128K version, select “Loader” in the menu and press ENTER. Press PLAY on tape and the game will load automaticly.
+
+FX  Scroll de verdad / FX True Scroll
+
+Por fin hemos hecho un juego con scroll de verdad, lo que nos llena de orgullo y satisfacción.
+
+We finally made a game with real scrolling, which makes us proud and glad.
+FX La Gente de Vicente / FX the Vicente Crew
+
+Todos los monstruos de este güego están interpretados por la compañía de actores de Vicente Pompillo.
+
+Every  monster in this game is performed by actors from Vicente Pompillo’s acting company.
+
+http://www.mojontwins.com/juegos_mojonos/maritrini-freelance-monster-slayer/

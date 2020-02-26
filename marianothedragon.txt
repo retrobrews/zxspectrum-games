@@ -1,0 +1,135 @@
+Mariano the Dragon: Capers in Cityland
+by Mojon Twins
+2008/05/13
+
+======================
+auto-translated:
+======================
+Version for ZX Spectrum 48K (C) 2008 The Mojon Twins
+Version for CPC by Artaburu, Dadman and na_th_an available on this website.
+History
+
+A difficult mission has been entrusted to Mariano, the Pink Dragon. All his friends have been imprisoned by the evil Tetrarca Pachin Poi Poi on the planet Cityland prison for not having carried out the tasks entrusted to them, and the only way for Mariano to get the keys to the cells is to perform these tasks. the same.
+Tasks
+
+1.- Eliminate all Karakasa.
+
+Nanako was hired to free the entire surface of the planet from the annoying Karakasa who only bothered the capricious Tetrarch, but by mistake lost her Powerful Boots, the only weapon capable of eliminating such annoying bichapios. To free Nanako, Mariano must find the Powerful Boots and eliminate the ten Karakasa that inhabit the planet's surface.
+
+2.- Send the enemy's plans to Pachin Poi Poi.
+
+After a thousand penalties, Sergeant Helmet was able to infiltrate the enemy fortress and steal all the plans, which he stored on a floppy disk with the idea of ??transferring them to the Pachin Poi Poi Main Computer through a computer terminal located in the West zone of the Prison complex, just below the storage hangars. However, he fell asleep and did not deliver them on time. To free Sergeant Helmet, Mariano must find the diskette, which Helmet was left near the cells where all his friends are imprisoned, and take him to the computer terminal.
+
+3.- Paint all the drums of the storage hangars.
+
+Horace was hired for this arduous task: to paint the fifteen yellow drums in the storage hangars red. However, he went skiing and left the job undone. Mariano will have to paint these drums, but first he will have to pick up the red paint canister that is in the hangar's attic.
+
+4.- Hunt all the ghosts of the Deep Caves.
+
+Pachin called the Chost-Embustes to exterminate all the ghosts that inhabited the deepest part of the penitentiary complex, but they were so clumsy to send Tracy without eating enough. The poor monkey stayed banging bananas at the door of the complex, leaving all their traps watered in the vicinity of the computer terminal and losing the dematerializer. Mariano must find the dematerializer, collect the five traps, and go to the Deep Caves to capture the ghosts.
+
+5.- Collect all the Shooting Stars.
+
+Phantomasa works for Pachin collecting all the shooting stars that penetrate the complex, since they are an incredible source of energy. However, he fell asleep on the laurels and left ten uncollected, which were deeper. Picking up these stars will free Phantomasa.
+
+
+Instructions
+
+Moving to Mariano is very simple:
+
+    O     left
+    P     right
+    SPACE activate jump
+    A     activate trap
+
+Mariano can perform many actions depending on the context in which he is:
+
+    To activate a trap there must be a ghost on the screen and you have to have the dematerializer.
+    To pick up an object you have to place yourself on it.
+    To activate the computer terminal you have to have the diskette and place yourself next to it.
+    To paint a bottle of red you just have to get on top, having the can of red paint in your possession.
+
+Each time you complete a task you will get the corresponding key. The keys can be used at the doors of the cell area to free your friends. Once you have released your five friends, the game will be over.
+Loading Instructions
+
+    ZX Spectrum 48K: LOAD «»
+    ZX Spectrum 128K or higher: enter 48 BASIC mode and follow the instructions of the ZX Spectrum 48K
+
+FX Do It Yourself!
+
+This game, Mariano the Dragon: Capers in Cityland, has been conceived as a "tutorial game." All the source code of the game is included in the packages of each version: In the CPC version, you have all the C code using the game programming library that Artaburu has developed and which you can download from http: //www.amstrad. is / programming / c / index.php. The version of ZX Spectrum is an example of what can be achieved using BASIC compiled with HiSoft.
+Molona cover by Kendroock
+Molona cover by Kendroock
+
+ZX Spectrum 48K version: http://www.mojontwins.com/games/Mojon-Twins–Mariano-the-Dragon-Capers-in-Cityland.tzx
+
+Source code for the ZX Spectrum 48K version: http://www.mojontwins.com/games/Mojon-Twins–Mariano-the-Dragon-Capers-in-Cityland-src.rar
+
+You can find the version for Amstrad CPC on the Computer Emuzone website.
+
+=======================================================================================================================================================================================================================
+
+Versión para ZX Spectrum 48K (C) 2008 The Mojon Twins
+Versión para CPC por Artaburu, Dadman y na_th_an disponible en esta web.
+Historia
+
+Una difícil misión ha sido encomendada a Mariano, el Dragón Rosa. Todos sus amigos han sido encarcelados por el malvado Tetrarca Pachin Poi Poi en el planeta prisión Cityland por no haber llevado a cabo las tareas que les habían sido encomendadas, y la única forma de que Mariano consiga las llaves de las celdas es que realice estas tareas él mismo.
+Las Tareas
+
+1.- Eliminar a todos los Karakasa.
+
+Nanako fue contratada para liberar toda la superficie del planeta de los molestos Karakasa que no hacían más que molestar al caprichoso Tetrarca, pero por despiste perdió sus Botas Potentes, el único arma capaz de eliminar a tan molestos bichapios. Para liberar a Nanako, Mariano deberá encontrar las Botas Potentes y eliminar a los diez Karakasa que habitan la superficie del planeta.
+
+2.- Enviar los planes del enemigo a Pachin Poi Poi.
+
+Tras mil penalidades, el Sargento Helmet pudo infiltrarse en la fortaleza enemiga y robar todos los planes, los cuales almacenó en un diskette con la idea de transferirlos al Ordenador Principal de Pachin Poi Poi a través de una terminal de ordenador situada en la zona Oeste del complejo penitenciario, justo debajo de los hangares de almacenamiento. Sin embargo, se quedó dormido y no los entregó a tiempo. Para liberar al Sargento Helmet, Mariano deberá encontrar el diskette, que Helmet se dejó cerca de las celdas donde están encarcelados todos sus amigos, y llevarlo a la terminal de ordenador.
+
+3.- Pintar todos los bidones de los hangares de almacenamiento.
+
+Horace fue contratado para esta ardua tarea: pintar de rojo los quince bidones amarillos situados en los hangares de almacenamiento. Sin embargo se fue a esquiar y dejó el trabajo sin hacer. Mariano deberá pintar estos bidones, pero antes tendrá que recoger el bote de pintura roja que está en el altillo de los hangares.
+
+4.- Cazar todos los fantasmas de las Cuevas Profundas.
+
+Pachin llamó a los Chost-Embustes para que exterminaran todos los fantasmas que habitaban en lo más profundo del complejo penitenciario, pero éstos fueron tan torpes de enviar a Tracy sin que hubiera comido lo suficiente. El pobre mono se quedó zampando plátanos a la puerta del complejo, dejando todas sus trampas regadas en las cercanías del terminal de ordenador y perdiendo el desmaterializador. Mariano deberá encontrar el desmaterializador, recoger las cinco trampas, y dirigirse a las Cuevas Profundas para capturar a los fantasmas.
+
+5.- Recoger todas las Estrellas Fugaces.
+
+Phantomasa trabaja para Pachin recolectando todas las estrellas fugaces que penetran en el complejo, ya que son una increíble fuente de energía. Sin embargo, se durmió en los laureles y se dejó diez sin recoger, las que estaban a más profundidad. Recogiendo estas estrellas liberarás a Phantomasa.
+
+
+Instrucciones
+
+Mover a Mariano es muy sencillo:
+
+    O izquierda
+    P derecha
+    SPACE activar salto
+    A activar trampa
+
+Mariano puede realizar muchas acciones dependiendo del contexto en el que se encuentre:
+
+    Para activar una trampa debe haber un fantasma en la pantalla y tienes que tener el desmaterializador.
+    Para recoger un objeto tienes que colocarte sobre él.
+    Para activar el terminal de ordenador tienes que tener el diskette y colocarte junto a él.
+    Para pintar un bidón de rojo sólo debes subirte encima, teniendo en tu poder el bote de pintura roja.
+
+Cada vez que completes una tarea obtendrás la llave correspondiente. Las llaves podrás emplearlas en las puertas de la zona de celdas para liberar a tus amigos. Una vez hayas liberado a tus cinco amigos, el juego habrá terminado.
+Instrucciones de Carga
+
+    ZX Spectrum 48K: LOAD «»
+    ZX Spectrum 128K o superior: entrar en modo 48 BASIC y seguir las instrucciones del ZX Spectrum 48K
+
+FX Do It Yourself!
+
+Este juego, Mariano the Dragon: Capers in Cityland, ha sido concebido como un «juego tutorial». En los paquetes de cada versión se incluye todo el código fuente del juego: En la versión para CPC, tienes todo el código C empleando la biblioteca de programación de juegos que ha desarrollado Artaburu y que puedes descargar de http://www.amstrad.es/programacion/c/index.php. La versión de ZX Spectrum es todo un ejemplo de lo que puede conseguirse empleando BASIC compilado con HiSoft.
+Portada molona por Kendroock
+Portada molona por Kendroock
+Descarga
+
+Versión ZX Spectrum 48K: http://www.mojontwins.com/juegos/Mojon-Twins–Mariano-the-Dragon-Capers-in-Cityland.tzx
+
+Código fuente de la versión ZX Spectrum 48K: http://www.mojontwins.com/juegos/Mojon-Twins–Mariano-the-Dragon-Capers-in-Cityland-src.rar
+
+Puedes encontrar la versión para Amstrad CPC en la web de Computer Emuzone.
+
+http://www.mojontwins.com/juegos_mojonos/mariano-the-dragon-capers-in-cityland/

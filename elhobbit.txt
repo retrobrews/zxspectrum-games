@@ -1,0 +1,39 @@
+El Hobbit (Vah-ka’s Cut)
+by Mojon Twins
+2013/01/03
+ 
+
+Diseño / Design: Anjuel & na_th_an
+Gráficos / GFX: Anjuel
+Código / Code: na_th_an
+1-bit sfx: Shiru
+
+Powered by La Churrera 4.5 by The Mojon Twins and splib2 by Alvin Albrecht.
+Uses aPPack decompressor by dwedit, adapted by Utopian & optimized by Metalbrain
+Music tracks composed in Beepola
+Juego participante en el concurso «El Hobbit» de Bytemaníacos (link).
+
+Colección Pretujao, vol #11.
+Instrucciones / Instructions
+
+Bilbo es un hobbit, que es algo así como el tío ese de tu clase que era chico y que corría una jartá. Un día estaba en su casa comiéndose un tico-tico de Sandía y recibió la llamada de Gandalf, un viejo raro que, además de mago tipo merlín, trabajaba de profesor gay en Harry Potter. El viejo le dice que hay un tesoraco de la hostia guardado por el terrible dragón rosa Smaug, pero que no sabe como se abre la cueva donde está guardado. Eso nada más que lo saben los enanos, que son unos señores bajitos con barba, en total trece, que andan por ahí por el bojque. En la cueva, además, hay un tío calvo enfadao que se llama Gollum, y se guarda un anillo que si te lo pones te haces invisible un ratito (y, por tanto, los monstruos no te matan) pero que marea.
+
+En El Hobbit (Vahka’s Cut) tu misión es ayudar a Bilbo a encontrar el tesoro de Smaug sin morirse. Para ello, tendrás que hacer algunas cosas y tal en un escenario chulo de la hostia. Para moverte, puedes usar las teclas OPQA, o el joystick.
+
+Hay cosas con las que se puede interactuar (para hablar con la gente, o para examinar algo, o para coger el anillo). Para ello tienes que pulsar SPACE o FIRE en el joystick. Cuando tengas el anillo y te quieras poner invisible, pulsa SPACE/FIRE también… Pero cuidao, que da mareo y el efecto dura poco. Te va a hacer falta porque Gollum se mete por los pasillos estrechos y sin la invisibilidad no vas a poder pasar.
+
+ 
+
+Bilbo is a Hobbit, which is somehow like that small and skinny guy you remember from school which could run very fast. One nice day he was relaxing at home and got a call from Gandalf, an odd old chap who worked as a magician (in the good ol’ Merlin fashion) and as the gay professor in Harry Potter. The old man tells you about a big treasure hidden in a cave and guarded by Smaug, the terrible pink dragon – the problem being that he doesn’t really know how to open the cave to get it. That’s something which only the thirteen dwarves (dirty short people with long beards) know how to do; they usually wander around the forest. Besides, inside the cave there’s a bald grumpy man called Gollum who has hidden a ring somewhere. That ring is rather special, ‘cause if you put it on you become invisible (thus unkillable by enemies) but feel a bit dizzy.
+
+In The Hobbit (Vahka’s cut) your mission is to help Bilbo find Smaug‘s treasure without dying in the attempt. To do so, you’ll have to perform some tasks (hints already given). To move around you use your OPQA keys or the joystick.
+
+To talk to people / examine stuff / pick up stuff, etcetera, just press SPACE of FIRE in the joystick. When you get the ring (hint, hint!) you can put it on by pressing SPACE / FIRE as well. Beware, the effects are short and you will get a bit dizzy. You’ll need this ‘cause Gollums dwells in very thin corridors and you won’t be able to get past him without being invisible.
+
+ 
+FX No macuerdo / FX Can’t remember
+
+Los autores leyeron el libro hace tantos años que sólo recuerdan levemente el argumento. Pero eso no importa, así este juego es el más original.
+The authors of this game read the book so many years ago that they can’t remember the plot very well. But that’s not a problem: that has made this game more original.
+
+http://www.mojontwins.com/juegos_mojonos/el-hobbit-vahkas-cut/

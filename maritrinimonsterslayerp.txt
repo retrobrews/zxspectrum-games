@@ -1,0 +1,72 @@
+Maritrini Freelance Monster Slayer - Prologue
+by The Mojon Twins
+2012/10/04
+
+
+Maritrini, Freelance Monster Slayer en «Las increíbles vicisitudes de despertarse resacosa con Fred en la cama y tener que llegar más o menos puntual a la prueba de «Monstruos Vigorosos de Pechos Lustrosos»» featuring Los Fratelli
+
+ 
+
+Diseño, programa, gráficos, música y testing: The Mojon Twins.
+Dedicado a: zx81 & Radastan
+Powered by beepola y beepfx. Introducing the Super Babazoominator Construction Kit library.
+Historia / Plot
+
+Este juego es una precuela de «Maritrini Freelance Monster Slayer».
+
+Maritrini McAndrews, la gran actriz de la serie «Maritrini Cazabichos» tiene una vida muy ajetreada de fiesta en fiesta. Una mañana se despiertó con un resacón del 15 y con su rollete de la noche anterior en el otro lado de la cama de su increiblemente cara mansión a las afueras: una noche mala de absentas la tiene cualquiera.
+
+Maritrini tiene que irse echando leches a una audición para «Monstruos Vigorosos de Pechos Lustrosos», esperemos que su próximo exitazo en el cine. Para ello tiene que coger el coche y e ir lo antes posible hacia los estudios, pero lamentablemente todo despertar requiere de unas tareas básicas.
+
+Además hay un cochino que pulula por la casa (George Clooney se dejó su mascota en otra juerga mortal) que no para de dar mal. Y para colmo Maritrini y el rollete de turno se quedaron sobaos viendo los Goonies en la tele por cable a las seis de la mañana y con la fuerza de la absenta se creó un ectoplasma que hizo corpóreos a la familia Fratelli y estos no se andan con chiquitas. Son malotes de verdad.
+
+¿Quieres ayudar a nuestra heroina a llegar a la audición?
+ 
+
+This game is a prequel to «Maritrini, Freelance Monster Slayer».
+
+Maritrini McAndrews, the famous actress with a starring role in «Maritrini, Monster Slayer», has a really flamboyant life, full of meetings and parties. One morning, she woke up to an amazing hangover, with her one night stand lying to her side, in her huge mansion located at the outskirts of the city. A bad «absentas night», some would say.
+
+She really has to hurry to get in time to an audition for «Vigorous Monsters with Shiny, Manly Chests», which she intended to be her next big success in the movies. The only solution is jumping to her car and drive away to the studios, but FIRST she must complete some… «basic morning tasks».
+
+Besides, there’s a mad pig wandering around the house (George Clooney missed her pet in one of the latest huge parties!) which is a real bummer. And, besides, Maritrini and her one night stand passed out while watching «The Goonies» late at night in cable TV, and the mixture of absenta, cathodic rays, and sleep privation made the Fratelli Family corporeus… and really angry. Those are really bad guys!
+
+Can you help Maritrini to complete her «basic morning tasks»?
+El juego / The game
+
+Controla a Maritrini por toda su mansión para buscar los 4 objetos necesarios para su existencia y poder irse en coche a la audición: el CAFÉ quitador-de-resacas, la PLANCHA de planchar la ropa (no veas cómo la ha dejado la juerga nocturna), el TABACO de fumar sin el cual no vive y la PILA del mando de la puerta del garaje. ¡Cuando lo tengas todo en tu inventario, corre hacia el coche!
+
+Huye de la familia Fratelli y del cochinillo de George Clooney y tírales bombas para que exploten temporalmente para que aparezcan en la siguiente pantalla y te quiten vida.
+
+Abre puertas con las llaves, quema la ropa sucia con la cerilla de quemar la ropa sucia y dale huesos a tu perro :m para que te deje pasar a la siguiente habitación.
+
+ 
+
+
+Drive Maritrini around her mansion and look for the 4 objects you need to complete your basic morning tasks: Hangover-fixing COFFEE, an IRON to fix the mess in her clothes, a PACK OF CIGARETTES and a BATTERY to open the main door. Once you have those four objects in your inventory, just jump into your car and you’ll be done!
+
+Stay away from the Fratellis and George Clooney’s evil pig. You can drop bombs to make them explode and leave you alone… for a while.
+
+Use KEYS in CLOSED DOORS, burn DIRTY CLOTHES blocking your path using MATCHES, and give BONES to your DOG :m to get it out of the way.
+Controles / Controls
+
+O: Izquierda / Left
+P: Derecha / Right
+Q: Arriba / Up
+A: Abajo / Down
+SPACE: Tirar bomba / Drop Bomb
+FX Bailan Sin Cesar
+
+Impresionante tecnología para que los muñequitos bailen al ritmo de la música de título. Costó siete profesores suizos y un bastón de pegar bastonazos. Bailarán sin Cesar, hasta que aparezca César y lo arruine todo.
+FX Hyper Long Title Inside
+
+Habíamos decidido que el título del juego fuera más largo que la historia del juego, pero no lo hemos conseguido. Lo volveremos a intentar en el futuro.
+Instrucciones de carga / Loading instructions
+
+En modelos de 48K, escribe LOAD «» y pulsa ENTER y PLAY en el casette. El juego cargará automáticamente (si no falla, por supuesto, en cuyo caso puedes repetir pacientemente el proceso).
+
+En modelos de 128K, pon el ordenador en modo 48 BASIC y pulsa Enter. Luego sigue las instrucciones de los modelos de 48K.
+
+For 48K models just type in LOAD «» and press ENTER, then PLAY on tape. The game will load automaticly (unless it fails miserably, in which case you’ll have to start over again).
+
+For 128K moderls, switch to 48 BASIC, and then follow the instructions for the 48K models.
