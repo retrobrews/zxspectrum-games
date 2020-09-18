@@ -382,7 +382,7 @@
      <developer>Mojon Twins</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Sir Ababol DX</genre>
-     <players>1</players>
+     <players>1-4</players>
    </game>
    <game>
      <path>./snaked3.tap</path>
