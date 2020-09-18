@@ -289,6 +289,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./ninjajar.tap</path>
+     <name>Ninjajar!</name>
+     <desc>Help Ninjajar finding his girl in this video-adventure-arcade-platformer-whatever. You can jump, punch, jump and punch, break blocks, talk to people, talk to animals, buy things, get coins, solve puzzles, push levers... There's lots to do if you want to see your girl again. Just write down the password the game shows before entering each level. If you die or you perform badly, you can try again using the latest password.</desc>
+     <image>./ninjajar.png</image>
+     <rating>0</rating>
+     <releasedate>20140522T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Ninjajar!</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./parachute.tzx</path>
      <name>Parachute</name>
      <desc>Our mission is to reach the base avoiding all the dangers that lie in wait for us: helicopters, birds, antiaircraft batteries, explosive balloons, guardians, traps, etc. You will be thrown in different scenarios and with the sole help of your parachute you will have to arrive safely at the end of your mission. You have Fuel, which helps you descend faster, but be careful, the fuel runs out, you must manage it wisely. In some places you can refuel. Luck! You will need it. Free conversion based on the Atari classic "Parachute".</desc>
@@ -334,6 +346,42 @@
      <developer>Miguetelo</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Robots Rumble</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./sirababol.tzx</path>
+     <name>Sir Ababol</name>
+     <desc>At the end of the 11th Century, a young crusader named Sir Ababol from Manchester City traveled accross the ever green prairies in the French Britain, climbed the infinite heights at the Pirineos and arrived to the Alcoraz River. There, he witnessed completely astonished how St. George from Capadocia, also known as 'the dragon guy', helped Christians conquer territories held by the infidels. Control Sir Ababol accross the Monegrian fields and gather 25 ababol flowers. To be able to progress in your journey you'll need some keys you will be able to use to open several doors to gain access to different sections. Once you have gotten 25 ababol flowers, your mission will be over. Avoid touching the monster wandering around the place, and the water, which is evil. You can regain some lost breath eating some magical legs of monegros' fried chicken which you will find scattered around the already visited screens.</desc>
+     <image>./sirababol.png</image>
+     <rating>0</rating>
+     <releasedate>20100707T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Sir Ababol</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./sirababol2.tap</path>
+     <name>Sir Ababol 2</name>
+     <desc>Control Sir Ababol climbing the six towers of Freezia to face and fight the princes and princesses turned bats so you can finally destroy the evil Alastor. Sir Ababol can run and jump, but also use his sword, which can strike in any direction. When hit with the sword, baddies will freeze and blocks of ice or glass will shatter. Some ice blocks may contain coins or extra lives, so it's a good idea to break as much stuff as possible. At the top of each tower you  will face one or maybe two bats. To take them down and turn them again into princes or princesses you must hit them three times with your sword. After every tower you can visit the shop to buy a password or extra lives.</desc>
+     <image>./sirababol2.png</image>
+     <rating>0</rating>
+     <releasedate>XXXX0000T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Sir Ababol 2: The Ice Palace</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./sirababoldx.tap</path>
+     <name>Sir Ababol DX</name>
+     <desc>This is a new, enhanced version of Sir Ababol, with extra screens and gameplay items - 20 extra screens containing an underground river you could dive, and the possibility of getting a special pair of boots which granted you the ability to crush your enemies. Control Sir Ababol accross the Monegrian fields and gather 25 ababol flowers. To be able to progress in your journey you'll need some keys you will be able to use to open several doors to gain access to different sections. Once you have gotten 25 ababol flowers, your mission will be over. Avoid touching the monster wandering around the place, and the water, which is evil. You can regain some lost breath eating some magical legs of monegros' fried chicken which you will find scattered around the already visited screens.</desc>
+     <image>./sirababoldx.png</image>
+     <rating>0</rating>
+     <releasedate>20150322T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Sir Ababol DX</genre>
      <players>1</players>
    </game>
    <game>
